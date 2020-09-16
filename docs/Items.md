@@ -22,6 +22,8 @@ TMs (Overworld Locations)
  - **DIG**
 	 * Mt.Moon B2F
 	 * National Park
+ - **DOUBLE TEAM**
+	 * Copycat's House 1F
  - **DRAGONBREATH**
 	 * Blackthorn Gym
 	 * Mt.Rose
@@ -37,6 +39,8 @@ TMs (Overworld Locations)
  - **FIRE BLAST**
 	 * New Cinnabar Gym
 	 * Cinnabar Mansion 2F
+ - **FIRE PUNCH**
+	 * Kanto Underground
  - **FRUSTRATION**
 	 * Goldenrod Dept.Store 5F
  - **FURY CUTTER**
@@ -51,6 +55,8 @@ TMs (Overworld Locations)
 	 * Lake of Rage (House)
  - **HYPER BEAM**
 	 * Radio Tower 1F
+ - **ICE PUNCH**
+	 * Ice Path 1F
  - **ICY WIND**
 	 * Mahogany Gym
  - **IRON TAIL**
@@ -59,9 +65,13 @@ TMs (Overworld Locations)
 	 * Violet Gym
  - **NIGHTMARE**
 	 * Route 31
+ - **PROTECT**
+	 * Route 3
  - **PSYCHIC**
 	 * Mr. Psychic's House (Saffron)
 	 * Saffron Gym
+ - **PSYCH UP**
+	 * Goldenrod Underground Entrance (upper)
  - **RAIN DANCE**
 	 * Slowpoke Well B2F
  - **REST**
@@ -83,6 +93,8 @@ TMs (Overworld Locations)
 	 * Route 27 (House)
  - **SHADOW BALL**
 	 * Ecruteak Gym
+ - **SLEEP TALK**
+	 * Goldenrod Underground Entrance (lower)
  - **SLUDGE BOMB**
 	 * Route 43 Gate
  - **SNORE**
@@ -103,6 +115,8 @@ TMs (Overworld Locations)
  - **SWIFT**
 	 * Union Cave B1F
 	 * Viridian Gym
+ - **THIEF**
+	 * Blackthorn City
  - **THUNDER**
 	 * Power Plant
  - **THUNDERPUNCH**

@@ -249,6 +249,8 @@ Also, due to public demand, the **Ace Trainer HQ** is now accessible. However, i
 
  - After defeating the Mt. Silver champ, the player is informed of the final forge battle via a one-time event, if the forge battle hasn't been completed already.
 
+ - Added the remaining/missing overworld TMs. Each TM should now be available somewhere in the overworld.
+
 ## New and updated trades
 NPC Trades have received a decent bit of reworks, to be more useful options earlier in the game, and have better DVs and held items. **7 additional new trades** have also been added across the overworld, including the one that went missing after the Power Plant was reworked.
 
