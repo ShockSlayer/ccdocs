@@ -461,7 +461,7 @@ Added the **EGG MOVE TUTOR** and the **FUTURE MOVE TUTOR** in Vermilion City:
  - Natu/Xatu can now learn Steel Wing
  - Onix can now learn Rollout
 
-### New tutors:
+### Fixes:
  - Fixed missing Mimic entry for Wobbuffet via Event tutor
  - Fixed Politoed not getting Rock Slide via Kanto TM tutor
 
