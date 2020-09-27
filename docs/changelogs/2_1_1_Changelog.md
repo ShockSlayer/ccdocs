@@ -1,0 +1,22 @@
+2.1.1
+--------------
+ - Added missing "No Effect" entries for Normal and Fighting against Ghost in the Dex
+ - Added redundant volume updating to hopefully fix some niche bugs with playing cries in the Dex.
+ - After completing the Bug Catching Contest, Bill will call you if the caught species fills your box.
+ - Fixed AceTrainer HQ residence bed disappearing when reloading save files
+ - Fixed DUCK.EXE not having its overworld palette in Silph.Co and the Goldenron Cafe
+ - Fixed Daycare Man reading the DVs of the next egg instead of the previous one when rejecting an egg.
+ - Fixed Game Corner prizes using the last fought mon's DVs for shininess display
+ - Fixed Mt.Rose being listed as a town instead of a route
+ - Fixed Residence Cinnabar Tunnel Rocks not respawning on map entry
+ - Fixed a Ruins of Alph Scientist not using farwritetext
+ - Fixed incorrect collision for single residence bookshelves
+ - Fixed missing Elevator button in Celadon Dept. Store
+ - Fixed whiting out while surfing on a Pikachu not returning to the player's palette immediately
+ - Minor Dex optimizations
+ - Minor dex AltColorMon palette tweaking optimizations
+ - Minor home bank optimizations
+ - Minor optimizations to the area sign animation code
+ - Minor tweaks to DUCK.EXE's palette
+ - Updated Brock's Big Rock text to reflect the residence update
+ - VBlank now preserves hBuffer, which may fix a potential crash when entering areas during particular sets of CPU cycles

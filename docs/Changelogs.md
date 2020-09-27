@@ -1,7 +1,9 @@
 # Changelogs
 
+### [v2.1.1](changelogs/2_1_1_Changelog.md)
+*Released on September 26th, 2020.*
 ### [v2.1.0](changelogs/2_1_0_Changelog.md)
-*Released on September ??th, 2020.*
+*Released on September 21st, 2020.*
 ### [v2.0 BABY Hotfixes](changelogs/2_0_BABY_Hotfixes_Changelog.md)
 *Released on June 29th, 2019 - August 3, 2019.*
 ### [v2.0 BABY](changelogs/2_0_BABY_Changelog.md)
