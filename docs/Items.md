@@ -151,7 +151,7 @@ TMs (Dept.Stores)
  - **DETECT**
  - **FIRE PUNCH**
 ### Set 2
-*Available at 2+ badges*
+*Available at 4+ badges*
  - **ROLLOUT**
  - **ROAR**
  - **PSYCH UP**
@@ -169,7 +169,7 @@ TMs (Dept.Stores)
  - **STEEL WING**
  - **NIGHTMARE**
 ### Set 3
-*Available at 4+ badges*
+*Available at 6+ badges*
  - **DYNAMICPUNCH**
  - **TOXIC**
  - **ICY WIND**
@@ -181,7 +181,7 @@ TMs (Dept.Stores)
  - **ATTRACT**
  - **FURY CUTTER**
 ### Set 4
-*Available at 6+ badges*
+*Available at 8+ badges*
  - **ZAP CANNON**
  - **BLIZZARD**
  - **HYPER BEAM**
