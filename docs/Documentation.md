@@ -10,12 +10,13 @@
  - [**8. New options**](#new_options)
  - [**9. Map changes and additions**](#map_changes)
  - [**10. Obtainability and Compatibility**](#obtainability)
- - [**11. Music**](#music)
- - [**12. Shiny Hunting**](#shiny_hunting)
+ - [**11. Shiny Hunting**](#shiny_hunting)
+ - [**12. Chaining**](#chaining)
  - [**13. Renewable Resources, E4 Resetting and Trades**](#renewables)
- - [**14. Marts**](#Marts)
- - [**15. HMs**](#hms)
- - [**16. Misc stuff**](#misc)
+ - [**14. Music**](#music)
+ - [**15. Marts**](#Marts)
+ - [**16. HMs**](#hms)
+ - [**17. Misc stuff**](#misc)
 
 **- Preface -**
 ===============
@@ -61,7 +62,9 @@ Last but not least, before asking a question in the Discord, please **use the se
 
 ### Start with:
  - Fully unlocked Gear and Dex
- - Standard starting items, and the **House Key.** (See: [Residences](#residences))
+ - Standard starting items
+ - The **House Key.** (See: [Residences](#residences))
+ - The **Dex Tracker.** (See: [Chaining](#chaining))
  - Two useful phone numbers (Bill, **League**) (See: [Helpful NPCs](#helpful_npcs))
  - ¥3000 money
  - Link functions enabled
@@ -250,7 +253,7 @@ New Features:
  - Some interactions such as having low HP or recent events will take priority over other interactions, otherwise they are randomly generated.
  - Try watering different followers with the Squirtbottle!
  - Followers can also randomly pick up different items.
-	 * Some species are better at finding items than others\...
+	 * Some species are better at finding items than others\... See: [Pseudo Abilities](#pseudo_abilities)
  - For more detailed information on followers, see [the 2.0 BETA Changelog.](changelogs/2_0_BETA_Changelog.md#followers)
 
 ### Dex Rework:<a name="dex_rework"></a>
@@ -298,6 +301,7 @@ New Features:
  - Pressing B in a wild battle moves the cursor to RUN
 
 ### General Additions:
+ - Fishing now prompts the player to "Keep fishing?" after succeeding or failing to find an encounter.
  - Buying coins has now been made simpler with a new UI and allows buying exact numbers
  - Added multiple item quantities
 	* "Player found 5 FAST BALLS!"
@@ -353,6 +357,28 @@ Quality-of-life changes:
  - When the game tries to generate an egg, it rolls an extra time.
 	 * After beating the E4, it will roll a third time if the first two don't succeed.
  - (See also: [Shiny Hunting.](#shiny_hunting))
+ - Having certain species present in the party decreases the amount of time to hatch. See: [Pseudo Abilities](#pseudo_abilities)
+
+### Pseudo Abilities:<a name="pseudo_abilities"></a>
+ - Bonuses applied when certain species are present in the party. These have no effect on battling.
+
+ - **Pickup:** increases chance of finding a rarer item when interacting with the follower.
+	 * Found on: Meowth, Aipom, Teddiursa, Phanpy
+	 * New to CC: Murkrow, Swinub
+
+ - **Suction Cups/Sticky Hold:** increases chance of finding a fish from 50% to 80% when in the **first** party slot, even while fainted.
+	 * Found on: Grimer, Muk, Octillery
+	 * New to CC: Bellsprout, Weepinbell, Victreebel, Mr. Mime, Tangela, Ditto, Omanyte, Omastar, Teddiursa, Shuckle, Aipom, Politoed
+
+ - **Compound Eyes/Super Luck:** increases wild species held item chance from 25%/8% to 70%/20% when in the **first** party slot, even while fainted.
+	 * Found on: Butterfree, Venonat, Yanma, Togepi, Togetic, Murkrow
+	 * New to CC: Venomoth, Paras, Parasect, Spinarak, Ariados, Ledyba, Ledian
+
+ - **Flame Body/Magma Armor:** increases happiness point steps from 1 to 2 while hatching eggs when in any slot in the party. This effectively halves the time to hatch.
+	 * Found on: Ponyta, Rapidash, Magmar, Moltres, Slugma, Magcargo, Magby
+	 * New to CC: Chansey, Blissey
+
+ - These lists can also be found in game, in Saffron City.
 
 ### Visual Improvements:
  - Added new 251 overworld/menu mini sprites
@@ -368,6 +394,7 @@ Quality-of-life changes:
  - NPCs now have custom palettes to bring more color to the landscape
 	 * This is also reflected in-battle for generic trainers, sprites will match the overworld colors
  - Some species have "nickname palettes" which will change their natural color with a certain combination of nickname and DVs.
+  - In battle, the Hidden Power animation is now colored based on what type it is
 
 **7. Move Tutors and other helpful NPCs**<a name="helpful_npcs"></a>
 ==========================================
@@ -471,9 +498,16 @@ As the game continues to grow, many small tweaks and changes will be made and on
  - Route 21 Lighthouse
  - Underground Arena
  - Goldenrod Cafe
+ - Mount Mortar Peaks
+ - Mirage Sanctuary
+ - Power Plant Basement
+ - Ruins of Alph Extra Chamber
+ - Silph Co. 2F
+ - Saffron City Abilities House
 
-### Ported:
+### Ported/Expanded:
  - Viridian Forest (with a few minor changes)
+ - Silph Co. 1F
  - Cinnabar Mansion
  - Seafoam Islands
  - Power Plant
@@ -494,6 +528,7 @@ As the game continues to grow, many small tweaks and changes will be made and on
  - Route 41 (Whirl Islands)
  - Route 42
  - Dark Cave (now usable as a shortcut to Blackthorn City)
+ - Ice Path B3F
  - The two Kanto Underground maps have been combined into one large, connected map
  - The Goldenrod/Lavender Name Rater and Blackthorn Move Deleter maps have been combined into one, now called the Modification Station.
 
@@ -522,18 +557,7 @@ Many maps in Kanto have also been restored to Gen 1 sizes. Additionally, there h
  - Confirmed working with Stadium 2, GSC, and RBY via Time Capsule
  - Mystery Gift still works properly, but is no longer required for obtaining certain decorations. (See: [Decorations](#decorations))
 
-**11. Music**<a name="music"></a>
-==============
- - Music is now customizable from the new Music menu on the start screen
-	 * Surf music option has a "Regional" variant that plays a matching track per region
- - Many new tracks have been added, including a complete set of Gen 4 arrangements by FroggestSpirit!
- - Additional music can be unlocked by defeating certain trainers or completing specific tasks
-	 * For a list of what tracks are unlockable and where to find them, see: [Unlockable Music.](Music.md)
- - Music can be disabled
- - Certain trainers and legendary encounters will have designated themes
- - Pressing Select on the music screen will set the highlighted track to **RANDOMIZE**
-
-**12. Shiny Hunting**<a name="shiny_hunting"></a>
+**11. Shiny Hunting**<a name="shiny_hunting"></a>
 ======================
 The **1/8192** chance has been preserved for wild encounters, but some quality of life features have been added:
  - Shinies now have in-battle shiny icons
@@ -566,13 +590,186 @@ The **1/8192** chance has been preserved for wild encounters, but some quality o
 	 * Struggle will continue to harm the wild shiny until it reaches red HP. It will then fail until you run out of balls, at which point it will work as normal to prevent a softlock
  - Perish Song always fails for wild species
  - If the Daycare Man has a shiny egg, he will be distracted by the blue spots
- - Legendary Dogs now have a full shiny animation which plays if they are released as shiny.
+ - Legendary Beasts now have a full shiny animation which plays if they are released as shiny.
  - Suicune's DVs roll before the battle starts in the Tin Tower allowing for the proper palette and animation to play in the overworld.
 
 ### Increased odds:
- - Safari Zone shiny odds have been increased to **1/4096.**
+ - Safari Zone and National Park (including the Bug Catching Contest) have their shiny odds increased by way of additional rerolls. See: [Chaining](#chaining)
  - Gifts (Like the Starter, Game Corner prizes, etc.) have been increased to **1/1024.**
-	 * **This does not apply to stationary wild encounters.**
+ - Certain stationaries have increased odds to **1/1024.** This affects:
+	 * Grullo Gorge - Aerodactyl
+	 * Ice Path B3F - Piloswine
+	 * Mount Mortar Peaks - Togepi
+ - All other stationaries retain the **1/8192** chance.
+
+**12. Chaining**<a name="chaining"></a>
+================
+[(Youtube Video Breakdown)](https://www.youtube.com/watch?v=femz1MF5ra8 "Chaining")
+
+Chaining is a new feature as of [2.2.0](changelogs/2_2_0_Changelog.md), and is designed to be comparable to Gen 2's breeding odds in terms of how accesible it makes shinies or a desired set of DVs. It is available from the start, and is linked to a new key item given to the player called the Dex Tracker.
+
+### What is chaining?
+Chaining is the concept of defeating the same wild species repeatedly, to increase the odds of finding a shiny, or maximum DVs, of that species. There are many different interpretations of this across the series, however the one in CC is a fairly unique. Watching the video linked above is a good idea to get started, and the latest information will always be listed either here or in the [changelogs.](Changelogs.md)
+
+### Starting and maintaining a chain:
+ - Chaining is disabled by default, and must be enabled by using the Dex Tracker. This can even be done during battle.
+ - A chain is created when a wild species is defeated. This includes stationary/legendary encounters, excluding roamers.
+ - Defeating more of the currently chained species will increase the chain.
+ - Breaking a chain can only be done by defeating a different species. This means you can run away, catch other species, or travel to different areas without breaking the chain. The current chain is also saved to the save file, so you can resume it between sessions. You can also break a chain manually using the Dex Tracker.
+ - Disabling chaining using the Dex Tracker will not break the chain. This can be used to preserve a chain for later.
+ - Chains can be started by interacting with footprints. These chains will start at a default of 25 encounters, making it much easier to find that species.
+ - When a chain is active, you will be more likely to find encounters with that same species. (See: [Encounter Rate Rerolls](#encounter_rate_rerolls))
+
+### Rerolls and bonuses:
+"Rerolls" are best described as additional number rolls that happen when DVs are generated, and if the extra rolls generate a shiny, the game will stop rolling and use that. However, in CC they function more like a "bonus counter" as they are used in a variety of other ways as well. As the chain builds, more rerolls will become available at certain milestones. The following table shows the progression, as well as the maximum amount including bonus rerolls, which are explained below. In addition, when a milestone is crossed in game, a small animation will play.
+
+**Reroll Milestones:**
+
+| Encounters       | Rerolls |
+|------------------|---------|
+| Less than 5      | 0       |
+| 5                | 1       |
+| 25               | 2       |
+| 50               | 3       |
+| 75               | 4       |
+| 100              | 5       |
+| 125              | 6       |
+| 150              | 7       |
+| 175              | 8       |
+| 200              | 9       |
+| 250              | 10      |
+| Completed Dex    | 11      |
+| Beat E4 Rematch  | 12      |
+|                  | 13      |
+| Safari/Park (+2) | 14      |
+
+ - Bonus rerolls are _only_ used when calculating DVs. They are applied regardless of chain status, however chaining _must_ be enabled to take advantage of them. They will be shown when using the **CHECK** function of the Dex Tracker. You can unlock bonus rerolls by:
+	 * Completing the Dex
+	 * Beating the E4 Rematch
+
+ - Visiting the Safari Zone or National Park (including the Bug Catching Contest) will add an additional **2** bonus rerolls as well.
+
+ - After 5 encounters, wild species will have one random egg move. If the species has less than 4 moves, this will be added to their current moveset, otherwise it will overwrite the first move slot.
+
+ - Rerolls are applied to encounter rate, but apply differently based on encounter type. Fishing, Rock Smash, and Headbutt encounters max out faster and higher since they are more cumbersome to navigate. Otherwise, the formula is <Rerolls> * 8.
+
+**Encounter Rate Rerolls:**<a name="encounter_rate_rerolls"></a>
+
+| Rerolls | Default Rate | Boosted Rate |
+|---------|--------------|--------------|
+| 1       | 8            | 16           |
+| 2       | 16           | 32           |
+| 3       | 24           | 48           |
+| 4       | 32           | 64           |
+| 5       | 40           | 80           |
+| 6       | 48           | 96           |
+| 7       | 56           | 112          |
+| 8       | 64           | 112          |
+| 9       | 72           | 112          |
+| 10      | 80           | 112          |
+
+Note that encounter rate is based on the frequency of the desired species, and not the initial likelihood of finding a species when using Headbutt, Rock Smash, or while fishing.
+
+### The Dex Tracker:
+The Dex Tracker is automatically given to the player at the start of the game. It is a key item that not only can be registered for quick use on the Select button, but can also be used from the Pack in battle. The following is a description of each function of the Dex Tracker.
+
+ - **CHECK:** Displays the species, current chain amount, and how many rerolls you currently have. 
+	 * When a chain is maxed, it will display a star next to the current chain count.
+
+ - **CLEAR:** Breaks the chain.
+	 * This is mostly useful to start a new chain in the same area, without having the increased encounter rate of the old species.
+
+ - **ENABLE/DISABLE:** Enables or disables the chaining feature.
+	 * Chaining is disabled by default, and must be enabled to start tracking.
+	 * Disabling a chain will not break it, meaning you can save chains for later.
+	 * Disabling chaining also disables the bonus rerolls applied in special areas, returning the odds to the default 1/8192.
+	 * Disabling chaining also disables the bonus egg moves after 5 encounters.
+	 * Disabling chaining during battle can be done to prevent breaking a chain due to a forced or inescapable encounter.
+
+ - **OPTIONS:** Allows configuring chain preferences.
+	 * **GENDER** - If applicable, when chaining bonuses are applied, prefer MALE or FEMALE species.
+	 * **POWER** - When chaining bonuses are applied, prefer a certain Hidden Power type (gender preference inclusive.)
+	(Note that until the UPGRADE CARD is obtained from New Cinnabar Lab, only GENDER will be available.)
+
+**Upgrade Card:**
+	Obtained by visiting the second room of New Cinnabar Lab. Unlocks Hidden Power preference in the Dex Tracker.
+
+### Powerful Auras:
+When a species with max DVs is encountered either by chaining or randomly, a small animation will play at the start of the battle before the species cry, and a message will mention that the species is radiating a powerful aura. This is to indicate that the species either has a 15 for every DV, or if a female gender preference is set, a full set of 15s with the highest possible Attack DV.
+
+Powerful Type Auras can also be found, if the Upgrade Card has been obtained and the Dex Tracker has been configured to search for a specific Hidden Power type. This will play _after_ the species cry - making it distinctly different from the normal Powerful Aura. In addition, the aura will have the color of the chosen type.
+
+### Odds:
+Odds are hard to calculate accurately for chaining - the internal mechanics have a lot going on which makes calculation relatively difficult. However, field testing and external simulations reveal that you are likely to find what you're looking for before you completely max out your chain odds. So don't worry about chaining being too insignificant of a buff - it's easily far more generous than other interpretations given that it aims to compete with the 1/64 chance that breeding offers. With that in mind, the following tables have been compiled. Given that rerolls are shared and that the internal mechanics include rate-based application, these numbers are best used only as a guideline.
+
+| Encounters       | Rerolls | Shiny Chance | 1 in |
+|------------------|---------|--------------|------|
+| 0                | 0       | 0.012%       | 8192 |
+| 5                | 1       | 0.012%       | 8085 |
+| 25               | 2       | 0.013%       | 7572 |
+| 50               | 3       | 0.015%       | 6484 |
+| 75               | 4       | 0.020%       | 5025 |
+| 100              | 5       | 0.028%       | 3615 |
+| 125              | 6       | 0.040%       | 2511 |
+| 150              | 7       | 0.058%       | 1737 |
+| 175              | 8       | 0.082%       | 1219 |
+| 200              | 9       | 0.114%       | 874  |
+| 250              | 10      | 0.156%       | 642  |
+| Completed Dex    | 11      | 0.207%       | 482  |
+| Beat E4 Rematch  | 12      | 0.270%       | 371  |
+|                  | 13      | 0.344%       | 290  |
+| Safari/Park (+2) | 14      | 0.432%       | 232  |
+
+| Rerolls | Max DV Chance         | 1 in  | Max Power HP Chance | 1 in  | Max DV Chance      | 1 in  |
+|---------|-----------------------|-------|---------------------|-------|--------------------|-------|
+| 0       | 0.0015%               | 65536 | 0.0015%             | 65536 | 0.0015%            | 65536 |
+| 1       | 0.0064%               | 15569 | 0.0049%             | 20386 | 0.0029%            | 34701 |
+| 2       | 0.0503%               | 1987  | 0.0354%             | 2826  | 0.0155%            | 6465  |
+| 3       | 0.1996%               | 501   | 0.1392%             | 718   | 0.0587%            | 1704  |
+| 4       | 0.5303%               | 189   | 0.3694%             | 271   | 0.1548%            | 646   |
+| 5       | 1.1079%               | 90    | 0.7713%             | 130   | 0.3226%            | 310   |
+| 6       | 1.9747%               | 51    | 1.3745%             | 73    | 0.5741%            | 174   |
+| 7       | 3.1475%               | 32    | 2.1901%             | 46    | 0.9136%            | 109   |
+| 8       | 4.6199%               | 22    | 3.2135%             | 31    | 1.3382%            | 75    |
+| 9       | 6.3675%               | 16    | 4.4271%             | 23    | 1.8398%            | 54    |
+| 10      | 8.3544%               | 12    | 5.8055%             | 17    | 2.4069%            | 42    |
+| 11      | 10.5383%              | 9     | 7.3188%             | 14    | 3.0260%            | 33    |
+| 12      | 12.8755%              | 8     | 8.9360%             | 11    | 3.6834%            | 27    |
+| 13      | 15.3239%              | 7     | 10.6275%            | 9     | 4.3657%            | 23    |
+| 14      | 17.8451%              | 6     | 12.3661%            | 8     | 5.0609%            | 20    |
+|         | (Without HP tracking) |       | (With HP tracking)  |       | (With HP tracking) |       |
+
+### Interactions:
+Understanding the different ways that chaining interacts with the game is important, especially for chaining certain species. There are also a variety of different niche interactions that may come up, and as such are listed below.
+
+#### Legendaries/Stationaries/Roamers:
+All of these can be chained, however this takes a little bit of extra understanding to do.
+ - **Stationaries:**
+	 * One-only stationaries can only be chained using SRAM Chaining. (See: [SRAM Chaining](#sram_chaining))
+	 * Any stationaries that respawn when re-entering the area can also be chained by using SRAM chaining, but can also be chained normally.
+	 * Stationaries with hard coded DVs like the Shiny Gyarados will not roll for shininess or DVs.
+	 * Stationaries that have a bonus shiny chance will not be affected by chaining if rolled shiny.
+	 * Stationaries that have bonus moves will not get egg moves.
+ - **Roamers:**
+	 * Cannot be chained while roaming. The stationary variants, however, can be chained after unlocking them.
+	 * If released as shiny, the stationary variants will always be shiny, and must be defeated and reset to be chainable.
+ - **Suicune (Tin Tower):**
+ 	 * If it was released as shiny, then it will always be shiny, and chaining will not affect it.
+ 	 * If it was not released as shiny, a 1/8192 chance will be rolled when entering Tin Tower, and if that results in a shiny, its overworld palette will show as shiny, and it will be a forced shiny encounter, and chaining will not affect it.
+ 	 * If it was not released as shiny and entering the Tin Tower does not roll it as one, then chaining will affect it.
+ - **Suicune (Cianwood City):**
+	 * If released as shiny, and defeated at the Tin Tower, it will always be shiny, and must be defeated and reset to be chainable.
+
+#### SRAM Chaining:<a name="sram_chaining"></a>
+ - Starting or increasing a chain is saved directly to the save file, *the moment it happens.* This means if you accidentally break your chain, you can't reload your save file to restore it. 
+ - However, this also means if you spend resources like money or items to make chaining easier, you can reset to regain said items. This can also be used to prevent overleveling your party while chaining.
+ - This is most effectively used to chain stationary encounters, like legendaries. Simply save before starting the encounter, then after defeating the species, soft reset the game. While it is safest to soft reset after returning to the overworld, it is possible to reset slightly earlier. A good point of reference is the "+1 Rerolls" animation, as this plays directly after the save file is updated, meaning it is safe to reset during the animation.
+
+#### Sweet Scent:
+Sweet Scent has a new utility - when used while a chain is active, boosts the encounter rate rerolls to the max of 80. What this means is that it can be used to quickly build up chains, and is designed for more easily starting chains of 1% encounters, since these can be more cumbersome to find just by walking, even with extra rolls active.
+
+#### Misc:
+ - The Dex Tracker can be put into the PC, and will still track chains and apply the options. This is not recommended.
 
 **13. Renewable Resources, E4 Resetting and Trades**<a name="renewables"></a>
 ====================================================
@@ -590,6 +787,7 @@ The **1/8192** chance has been preserved for wild encounters, but some quality o
 	 * Plays cry and the shiny sound if applicable(keeps DVs if shiny)
 	 * Also checks if they still exist on the save file
 	 * Save before using the machine if you wish to SR for these.
+	 * Resetting a roamer also makes it available as a stationary. See: [the 2.2.0 changelog.](changelogs/2_2_0_Changelog.md#2_2_0_map_additions)
  - Ho-oh/Lugia/Suicune/Articuno/Zapdos/Moltres/Mewtwo can be refought after each completion
  - Celebi, if it hasn't already been caught
  - Dome Fossil/Helix Fossil/Old Amber overworld events.
@@ -643,7 +841,18 @@ The **1/8192** chance has been preserved for wild encounters, but some quality o
  - Elm's Lab
 	 * (UNOWN for GIRAFARIG)
 
-**14. Marts**<a name="Marts"></a>
+**14. Music**<a name="music"></a>
+==============
+ - Music is now customizable from the new Music menu on the start screen
+	 * Surf music option has a "Regional" variant that plays a matching track per region
+ - Many new tracks have been added, including a complete set of Gen 4 arrangements by FroggestSpirit!
+ - Additional music can be unlocked by defeating certain trainers or completing specific tasks
+	 * For a list of what tracks are unlockable and where to find them, see: [Unlockable Music.](Music.md)
+ - Music can be disabled
+ - Certain trainers and legendary encounters will have designated themes
+ - Pressing Select on the music screen will set the highlighted track to **RANDOMIZE**
+
+**15. Marts**<a name="Marts"></a>
 ==============================
 ### Marts:
  - Now scale with badges
@@ -662,7 +871,7 @@ See also: [the items page.](Items.md)
  - Mart now displays the name of the selected TM onscreen
  - Located in the Celadon/Goldenrod Department stores
 
-**15. HMs**<a name="hms"></a>
+**16. HMs**<a name="hms"></a>
 ============
 ## Changes:
  - HM moves no longer require badges to be used outside of battle
@@ -697,7 +906,7 @@ See also: [the items page.](Items.md)
 
 **Certain starters, gifts, and stationary encounters may also have HM moves.**
 
-**16. Misc stuff**<a name="misc"></a>
+**17. Misc stuff**<a name="misc"></a>
 ==================
 ### **Easter Eggs:**
  - Try messing with the game's code in Celadon Mansion
