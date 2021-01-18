@@ -6,6 +6,7 @@
 ## Credits:
 
 **Muddy** - Hidden Power nickname palettes
+
 **Cedsi** - Detailed analysis of chaining math
 
 And a special thanks to everyone who reported bugs in the Discord server!
@@ -22,7 +23,7 @@ Added a new key item, the **DEX TRACKER** which is used to keep track of the new
 
 [(Youtube Video)](https://www.youtube.com/watch?v=femz1MF5ra8 "Chaining")
 
-(For a text explanation, see this new section of the documentation: [Chaining](Documentation.md#chaining))
+(For a text explanation, see this new section of the documentation: [Chaining](https://github.com/ShockSlayer/ccdocs/blob/master/docs/Documentation.md#chaining))
 
  - The DEX TRACKER can be upgraded to support searching for Hidden Power type by obtaining the **UPGRADE CARD** in the second room in New Cinnabar Lab
  
