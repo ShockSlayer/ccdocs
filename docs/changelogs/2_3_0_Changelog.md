@@ -2,6 +2,7 @@
 --------------
 ## New Features:
 
+#### New Game+:
 Added **New Game+**<a name="2_3_0_New_Game_Plus"></a>
  - Unlockable by beating the E4 rematch
  - Accesible by holding START when selecting NEW GAME from the main menu
@@ -24,7 +25,7 @@ Please note that your party and daycare data _will_ be wiped, so be sure to make
 
 This won't make the game any harder, but there is a small easter egg that will be available until starting the Suicune quest.
 
-
+#### Goomba support:
 Added **Goomba support.**<a name="2_3_0_Goomba"></a> For a long time, even vanilla Crystal wouldn't play nicely with the Goomba emulator. Usually I don't go out of my way to address inaccurate emulators, but Goomba is a special case in that it's the only way to play CC on certain consoles.
 
 This is an option that you can enable during the patching stage when using Allen's site. In the interest of future-proofing, this mode can also be enabled by changing 0x0EC5 to 01 using a hex editor. When successful, the main menu screen will display a "G" in the top right corner, like so:
@@ -33,7 +34,7 @@ This is an option that you can enable during the patching stage when using Allen
 
 This feature is best described as **EXPERIMENTAL.** There may be graphical bugs that I didn't find, and some that may not be addressable. A few things will also be slightly different; for example the map name sign no longer slides up and down when entering an area. However, it should at least make the game far more playable than it was before. If you don't understand any of this, chances are you don't need to worry about it.
 
-
+#### New Events:
 Added a **new event** to Cinnabar Mansion B1F.
  - Bring a follower that knows Dig.
 
