@@ -286,6 +286,7 @@ New Features:
  - After meeting the Battle Tutor, Gen 1 TM Tutor, or the Event Tutor, the respective set of moves will become teachable from the PC.
  - When getting the Dex rated, Seen/Caught mon are re-evaluated
 	 * Will fix things like Stadium 2/external tools not setting the correct Dex seen/caught data.
+ - Residence PCs now ask which kind of PC you want to use.
 
 ### In-battle additions:
  - Unlockable wild battle DV display; which can be configured in the Options.
@@ -301,6 +302,7 @@ New Features:
  - Pressing B in a wild battle moves the cursor to RUN
 
 ### General Additions:
+ - A New Game+ mode is available after defeating the E4 Rematch. It is accessible by holding START when selecting NEW GAME. See: [the 2.3.0 changelog.](changelogs/2_3_0_Changelog.md#2_3_0_New_Game_Plus)
  - Fishing now prompts the player to "Keep fishing?" after succeeding or failing to find an encounter.
  - Buying coins has now been made simpler with a new UI and allows buying exact numbers
  - Added multiple item quantities
@@ -557,6 +559,9 @@ Many maps in Kanto have also been restored to Gen 1 sizes. Additionally, there h
  - Confirmed working with Stadium 2, GSC, and RBY via Time Capsule
  - Mystery Gift still works properly, but is no longer required for obtaining certain decorations. (See: [Decorations](#decorations))
 
+### Hardware:
+ - CC is 100% compatible with real hardware, and as of [2.3.0](changelogs/2_3_0_Changelog.md#2_3_0_Goomba) features an extra compatibility mode for Goomba.
+
 **11. Shiny Hunting**<a name="shiny_hunting"></a>
 ======================
 The **1/8192** chance has been preserved for wild encounters, but some quality of life features have been added:
@@ -586,6 +591,7 @@ The **1/8192** chance has been preserved for wild encounters, but some quality o
 	 * *(No, this was not a feature in Crystal, that was only for the stationary Red Gyarados encounter)*
  - Damaging moves will now fail if used by wild shinies
 	 * This includes moves like Explosion, Curse, Take Down etc.
+	 * This includes being confused, which won't proc. 
 	 * Hi Jump Kick still works, but will not cause damage if it misses
 	 * Struggle will continue to harm the wild shiny until it reaches red HP. It will then fail until you run out of balls, at which point it will work as normal to prevent a softlock
  - Perish Song always fails for wild species
