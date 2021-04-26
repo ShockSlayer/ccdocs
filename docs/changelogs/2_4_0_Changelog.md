@@ -35,13 +35,13 @@ While the new event does lean towards being "post-game content," it does not req
 
 Given how rare it is for something like this to come along, **I've opted to keep event-relevant details and changes out of this changelog to keep it spoiler-free.** Believe it or not, the new event is the smaller half of the update, so there's still plenty to go over. Anyways, let's get into it.
 
-#### New Event:
+# New Event:
 
 ![](images/2_4_0_Changelog/image_4.png)
 
 Those who have lived there all their lives will often tell you about the mystical properties of Azalea Town. From the mysterious Ilex Forest, to the depths of Slowpoke Well, there is no shortage of text on the pages of its history. However, there are only few that give credence to one of the oldest legends surrounding this ancient town. And those that do will often claim they can see eyes watching them between the branches. Perhaps the story of a vanishing forest was merely a tale used to scare children into coming home before nightfall. But like many old legends, there may be a hint of truth to its origin.
 
-#### Nuzlocke Mode:<a name="2_4_0_Nuzlocke_Mode"></a>
+# Nuzlocke Mode:<a name="2_4_0_Nuzlocke_Mode"></a>
 
 ![](images/2_4_0_Changelog/image_3.png)
 
@@ -115,7 +115,7 @@ To Swap Chain:
 	 
 Swap Chaining may seem complicated at first, but with a little practice it can be used to build an optimal team without being at the mercy of RNG, in exchange for spending a handful of encounters. In terms of balance, since encounters are a non-recoverable and extremely limited resource, and Swap Chaining is a lengthy process that simultaneously evens the playing field while upping the ante(as losing a Swap Chained party member could be devestating enough to end a run,) I decided to leave it in.
 
-#### SGB Border:<a name="2_4_0_SGB_Border"></a>
+# SGB Border:<a name="2_4_0_SGB_Border"></a>
 
 ![](images/2_4_0_Changelog/image_1.png)
 
@@ -150,11 +150,10 @@ Usage:
 
 Other software may or may not support this particular method of emulation. Beyond that, several things were omitted or tweaked to increase transfer speed, which may hinder compatibility. For example the GB Tower in Stadium 2 is unfortunately not compatible with these changes.
 
-#### New Areas:
+# Gameplay changes:
 
+### New Areas:
  - Added Union Cave B3F
-
-#### Gameplay changes:
 
  - Added 6 new species prizes to a new prize vendor in the Underground Arena
 	 * These are SRable and have the same boosted shiny chance as the other giftmons
@@ -204,7 +203,7 @@ Buffed:
  - Love ball no longer requires the same species, only opposite genders, but is now only 4x instead of 8x.
  - Park balls (in the Bug Catching Contest) now have the Level ball boost if applicable, but otherwise remain 1.5x like the Great ball.
 
-#### Quality of Life Updates:
+# Quality of Life Updates:
 
  - Pressing START to highlight "END" on the nickname screen is now disabled when reset is disabled.
 	 * This is to prevent imperfect SRing over a shiny.
@@ -235,13 +234,13 @@ Stat Exp buffs:
  - Battles now apply 3x instead of 2x if party member is infected/cured
  - Stat Exp items now apply 2x if party member is infected/cured
 
-#### Battle Tutor Updates:
+# Battle Tutor Updates:
 
 Howdy folks, it's Grizz again!  Another update, another expansion for the Battle Tutor.  This one isn't as big as the last upgrade, but it adds some fun new tools for species that didn't get much love previously and also adds support for some explosive new combos!  I look forward to seeing how these additions are put to use out there in the field.  Go and win some battles!
 
 ![](images/2_4_0_Changelog/image_5.png)
 
-#### Visual updates:
+# Visual updates:
  - Added a new sprite and palette for the cave-in in Cherrygrove Bay Cave.
  
  - Granbull, Sandshrew, Doduo and Dodrio now use white in their overworld sprites.
@@ -252,7 +251,7 @@ Howdy folks, it's Grizz again!  Another update, another expansion for the Battle
 
  - Minor tweaks to Mt.Moon tileset and blockdata for consistency
 
-#### Misc tweaks:
+# Misc tweaks:
  - The following areas are now listed as landmarks:
 	 * Cinnabar Tunnel
 	 * Cinnabar Mansion
@@ -286,7 +285,7 @@ Howdy folks, it's Grizz again!  Another update, another expansion for the Battle
  - Minor animation tweak to make it clear who is talking during the pre-E4 cutscene
  - Teleporting follower script now has a chance to give a Gold Leaf instead of a Silver Leaf
 
-#### Bugfixes:
+# Bugfixes:
  - A lot of internal optimization, compression, and relocation to make space.
  - Minor tweak to the Kenya quest text to avoid using text macros.
  - Changed Mt.Rose's last known legal landmark to Blackthorn City
