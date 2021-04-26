@@ -95,23 +95,15 @@ Given that this is an entirely new way to play the game, there's bound to be thi
 
 During the streams leading up to release, it was discovered that chaining still has utility during a Nuzlocke, provided that "Duplicate species are treated as failed encounters" is left disabled. This allows "manipulating" the default Dupes Clause to get the exact DVs that you want for a party member, and is called Swap Chaining.
 
-To Swap Chain:
-
-	 1. Pick a target species and make sure it can be found in at least two different landmarks where you still have encounters available. Knowing the encounter types, rates, and times of day will be important.
-	 
-	 2. Catch the species you want to chain for on the first landmark. This will register the species as a duplicate, and give you a safe place to build up a chain. You will need this party member later.
-	 
-	 3. Build a chain of that species in the same area. The higher the chain, the safer this will be. Once built, disabling the chain is wise.
-	 
-	 4. Determine what species could appear in the second landmark that are not the target, and catch them anywhere but the second landmark. You only need to do this for the target time of day, and encounter type (so if your target species is only in the grass at night, you can ignore headbutt encounters and anything that only appears during the day.) If your chain or target encounter rate is high enough, it's possible to omit this step, but remains risky.
-	 
-	 5. Enable the chain (if needed) and enter the second landmark, with the species you caught earlier in your party. It may be helpful to lower its HP or poison it beforehand.
-	 
-	 6. Since every possible encounter is a duplicate, nothing can be caught. So keep running away until you find the target species with the DVs that you want.
-	 
-	 7. Once you've found the species you want, send out the one from your party, and let the enemy faint it.
-	 
-	 8. Since the enemy species is no longer a duplicate, the HUD will update to reflect that it's now a valid encounter! Now you can catch it.
+ - To Swap Chain:
+	 * Pick a target species and make sure it can be found in at least two different landmarks where you still have encounters available. Knowing the encounter types, rates, and times of day will be important.
+	 * Catch the species you want to chain for on the first landmark. This will register the species as a duplicate, and give you a safe place to build up a chain. You will need this party member later.
+	 * Build a chain of that species in the same area. The higher the chain, the safer this will be. Once built, disabling the chain is wise.
+	 * Determine what species could appear in the second landmark that are not the target, and catch them anywhere but the second landmark. You only need to do this for the target time of day, and encounter type (so if your target species is only in the grass at night, you can ignore headbutt encounters and anything that only appears during the day.) If your chain or target encounter rate is high enough, it's possible to omit this step, but remains risky.
+	 * Enable the chain (if needed) and enter the second landmark, with the species you caught earlier in your party. It may be helpful to lower its HP or poison it beforehand.
+	 * Since every possible encounter is a duplicate, nothing can be caught. So keep running away until you find the target species with the DVs that you want.
+	 * Once you've found the species you want, send out the one from your party, and let the enemy faint it.
+	 * Since the enemy species is no longer a duplicate, the HUD will update to reflect that it's now a valid encounter! Now you can catch it.
 	 
 Swap Chaining may seem complicated at first, but with a little practice it can be used to build an optimal team without being at the mercy of RNG, in exchange for spending a handful of encounters. In terms of balance, since encounters are a non-recoverable and extremely limited resource, and Swap Chaining is a lengthy process that simultaneously evens the playing field while upping the ante(as losing a Swap Chained party member could be devestating enough to end a run,) I decided to leave it in.
 
@@ -152,8 +144,7 @@ Other software may or may not support this particular method of emulation. Beyon
 
 # Gameplay changes:
 
-### New Areas:
- - Added Union Cave B3F
+ - Added Union Cave B3F (new area!)
 
  - Added 6 new species prizes to a new prize vendor in the Underground Arena
 	 * These are SRable and have the same boosted shiny chance as the other giftmons
