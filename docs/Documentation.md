@@ -102,7 +102,7 @@ Last but not least, before asking a question in the Discord, please **use the se
 
 **3. Gen 2 Glitch Fixes**<a name="fixes"></a>
 ==========================
- - Kurt's specialty balls now work properly
+ - Kurt's specialty balls now work properly, and have been reworked to be more useful. See: [the 2.4.0 changelog](changelogs/2_4_0_Changelog.md#2_4_0_Ball_Reworks)
  - This means Fast Ball properly boosts catch rate on the following species:
 	 * Grimer
 	 * Tangela
@@ -266,7 +266,7 @@ New Features:
 	 * Species listing capability, with several new search modes.
 	 * A plethora of new options, including disabling the need for seen data to view information.
 
-### Stats Screen additions
+### Stats Screen additions:
  - Post-rus party members will now display a dot next to the gender icon
  - Press SELECT on the second (green) page of the stats screen will toggle N64 button combos.
 	 * This is mostly for use with knowing how your team will function in Stadium 2
@@ -301,10 +301,23 @@ New Features:
  - Gym Leaders and certain special trainers have bonus in-battle text when on their last party member
  - Pressing B in a wild battle moves the cursor to RUN
 
+### Nuzlocke Mode:
+ - A fully featured Nuzlocke Mode has been added, which can be accessed by holding SELECT when selecting NEW GAME.
+ - Fully customizable ruleset allows for a variety of unique challenges. Each rule has accompanying text to explain the nuances of how they work.
+ - The game manages everything for you, so no need to worry about keeping track on your own.
+ - See: [the 2.4.0 changelog](changelogs/2_4_0_Changelog.md#2_4_0_Nuzlocke_Mode) for more information.
+
+### SGB Border:
+ - CC now supports the "SGB + GBC" mode offered by certain emulators. See: [the 2.4.0 changelog](changelogs/2_4_0_Changelog.md#2_4_0_SGB_Border) for information on how to use this mode.
+ - The border will display the party, badges, and seen/caught metrics, and will update automatically during gameplay, or manually by pressing SELECT after opening the start menu.
+
 ### General Additions:
  - A New Game+ mode is available after defeating the E4 Rematch. It is accessible by holding START when selecting NEW GAME. See: [the 2.3.0 changelog.](changelogs/2_3_0_Changelog.md#2_3_0_New_Game_Plus)
  - Fishing now prompts the player to "Keep fishing?" after succeeding or failing to find an encounter.
+ - Sweet Scent now prompts the player to "Keep using Sweet Scent?" after succeeding or failing to find an encounter.
  - Buying coins has now been made simpler with a new UI and allows buying exact numbers
+ - Riding the bike now allows the player to headbutt without having a party member that knows it.
+ - Lucky Punch now has a secondary effect: when held by any species, it will double the added catch chance from status.
  - Added multiple item quantities
 	* "Player found 5 FAST BALLS!"
 
@@ -332,6 +345,11 @@ Quality-of-life changes:
 	 * Can now be ended earlier by pressing A, or can ride indefinitely until pressing A.
 	 * Pressing Select will honk the train horn.
  - The player can now fish while surfing
+
+### Stat Exp buffs:
+ - Goldenrod Cafe now applies 3x if party member is infected/cured
+ - Battles now apply 3x instead of 2x if party member is infected/cured
+ - Stat Exp items now apply 2x if party member is infected/cured
 
 ### Stadium 2:
  - No longer requires saving at a center
@@ -449,6 +467,7 @@ Quality-of-life changes:
 	 * A simple fade and no sliding animation
 	 * Skips the "Got away safely" text	
 	 * Skips the "Wild \<species\> appeared!" text
+	 * Skips the "Species used Sweet Scent!" text
 
 ### Quick Nurse:
  - Skips all dialogue.
@@ -506,6 +525,7 @@ As the game continues to grow, many small tweaks and changes will be made and on
  - Ruins of Alph Extra Chamber
  - Silph Co. 2F
  - Saffron City Abilities House
+ - Union Cave B3F
 
 ### Ported/Expanded:
  - Viridian Forest (with a few minor changes)
@@ -576,6 +596,7 @@ The **1/8192** chance has been preserved for wild encounters, but some quality o
  - Sweet Scent takes repel into consideration
  - Certain gifts/events will prompt you to "Save game for soft resetting?"
 	 * This sets up a nicer soft-reset point allowing you to skip dialogue/cutscenes.
+	 * Encounter-based soft-reset loops can be broken out of by holding UP+SELECT.
  - Quick Continue allows you to minimize time between resets for shinies
  - Quick Encounter speeds up the startup battle animation times
  - Roamers now have a different palette and play the sparkle sound when being released

@@ -28,7 +28,7 @@ This won't make the game any harder, but there is a small easter egg that will b
 #### Goomba support:
 Added **Goomba support.**<a name="2_3_0_Goomba"></a> For a long time, even vanilla Crystal wouldn't play nicely with the Goomba emulator. Usually I don't go out of my way to address inaccurate emulators, but Goomba is a special case in that it's the only way to play CC on certain consoles.
 
-This is an option that you can enable during the patching stage when using Allen's site. In the interest of future-proofing, this mode can also be enabled by changing 0x0EC5 to 01 using a hex editor. When successful, the main menu screen will display a "G" in the top right corner, like so:
+This is an option that you can enable during the patching stage when using Allen's site. In the interest of future-proofing, this mode can also be enabled by changing 0x3FFF to 01 using a hex editor. When successful, the main menu screen will display a "G" in the top right corner, like so:
 
 ![](images/2_3_0_Changelog/image1.png)
 
