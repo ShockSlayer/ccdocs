@@ -37,13 +37,13 @@ Given how rare it is for something like this to come along, **I've opted to keep
 
 #### New Event:
 
-![](images/2_4_0_Changelog/image4.png)
+![](images/2_4_0_Changelog/image_4.png)
 
 Those who have lived there all their lives will often tell you about the mystical properties of Azalea Town. From the mysterious Ilex Forest, to the depths of Slowpoke Well, there is no shortage of text on the pages of its history. However, there are only few that give credence to one of the oldest legends surrounding this ancient town. And those that do will often claim they can see eyes watching them between the branches. Perhaps the story of a vanishing forest was merely a tale used to scare children into coming home before nightfall. But like many old legends, there may be a hint of truth to its origin.
 
 #### Nuzlocke Mode:<a name="2_4_0_Nuzlocke_Mode"></a>
 
-![](images/2_4_0_Changelog/image3.png)
+![](images/2_4_0_Changelog/image_3.png)
 
 I'll be honest - until this update I've never even attempted a Nuzlocke, so working on this feature had an extra level of challenge. And admittedly, the main reason that I wanted to create a Nuzlocke mode was because I wasn't attracted to the idea of having to keep track of everything myself. So I figured I could probably figure out how to get the game to do it for me. It quickly became a much larger project than I had envisioned, because I know that there are a lot of different clauses that people like to play with to tweak the difficulty to their own playstyle. Naturally I wasn't able to implement everything, but I was able to get a lot of different options in. Hopefully you'll find something you like!
 
@@ -72,7 +72,9 @@ After that, you can **customize your Nuzlocke options.** These can't be changed 
 	 * Don't allow the use of fly
 
 (1) Full-odds only, so chaining cannot be used to exploit this clause. There's a limit of 3 per save file.
+
 (2) CC introduces its own unique Split Evos clause, which don't count as dupes if that evolutionary lines encounter is the opposite form. This normally wouldn't come up, but CC has all Split Evos as encounterable species. Additionally, this rule must be left disabled to use Swap Chaining (see below.)
+
 (3) When set to scaling, if "Limit experience growth" is enabled, Stat Exp will cap at the current amount. Stars will appear on the status screen to indicate when the current stat is capped.
 
 During a Nuzlocke challenge, a few resources become more useful:
@@ -94,20 +96,28 @@ Given that this is an entirely new way to play the game, there's bound to be thi
 During the streams leading up to release, it was discovered that chaining still has utility during a Nuzlocke, provided that "Duplicate species are treated as failed encounters" is left disabled. This allows "manipulating" the default Dupes Clause to get the exact DVs that you want for a party member, and is called Swap Chaining.
 
 To Swap Chain:
+
 	 1. Pick a target species and make sure it can be found in at least two different landmarks where you still have encounters available. Knowing the encounter types, rates, and times of day will be important.
+	 
 	 2. Catch the species you want to chain for on the first landmark. This will register the species as a duplicate, and give you a safe place to build up a chain. You will need this party member later.
+	 
 	 3. Build a chain of that species in the same area. The higher the chain, the safer this will be. Once built, disabling the chain is wise.
+	 
 	 4. Determine what species could appear in the second landmark that are not the target, and catch them anywhere but the second landmark. You only need to do this for the target time of day, and encounter type (so if your target species is only in the grass at night, you can ignore headbutt encounters and anything that only appears during the day.) If your chain or target encounter rate is high enough, it's possible to omit this step, but remains risky.
+	 
 	 5. Enable the chain (if needed) and enter the second landmark, with the species you caught earlier in your party. It may be helpful to lower its HP or poison it beforehand.
+	 
 	 6. Since every possible encounter is a duplicate, nothing can be caught. So keep running away until you find the target species with the DVs that you want.
+	 
 	 7. Once you've found the species you want, send out the one from your party, and let the enemy faint it.
+	 
 	 8. Since the enemy species is no longer a duplicate, the HUD will update to reflect that it's now a valid encounter! Now you can catch it.
 	 
 Swap Chaining may seem complicated at first, but with a little practice it can be used to build an optimal team without being at the mercy of RNG, in exchange for spending a handful of encounters. In terms of balance, since encounters are a non-recoverable and extremely limited resource, and Swap Chaining is a lengthy process that simultaneously evens the playing field while upping the ante(as losing a Swap Chained party member could be devestating enough to end a run,) I decided to leave it in.
 
 #### SGB Border:<a name="2_4_0_SGB_Border"></a>
 
-![](images/2_4_0_Changelog/image1.png)
+![](images/2_4_0_Changelog/image_1.png)
 
 This one's going to take a little explanation, so bear with me here. **This does not mean that CC is now compatible with the SGB,** that can't happen for a variety of reasons. Instead, this functionality has been "readded" to fill a very specific niche - **streaming overlays.** If you're familiar with it, then you know how cumbersome CCGen was to get set up and use. This is an emulator-based alternative, that features the added bonus of having the game automatically update your border for you, at the cost of a minor delay.
 
@@ -120,7 +130,7 @@ The SGB Border:
 
 This is an option that you can enable during the patching stage when using Allen's site. In the interest of future-proofing, this mode can also be enabled by changing 0x146 to 03 and 0x14D to 24 using a hex editor. When successful, the main menu screen will display "SGB" in the top right corner, like so:
 
-![](images/2_4_0_Changelog/image2.png)
+![](images/2_4_0_Changelog/image_2.png)
 
 Usage:
  - You'll need to enable the SGB Border using Allen's site or modifying the header directly.
@@ -132,10 +142,11 @@ Usage:
 	 
  - Goomba:
 	 * By default, Goomba will not load the border. The following must be done on each boot (for now)
+
 	 1. Press L+R to open the Goomba menu
 	 2. In "Other Settings", set "Game Boy:" to "GBC+SGB"
 	 3. Return to the main menu and select "Restart"
-	 * The border will now work correctly, however the graphics will glitch slightly when updating.
+	 4. The border will now work correctly, however the graphics will glitch slightly when updating.
 
 Other software may or may not support this particular method of emulation. Beyond that, several things were omitted or tweaked to increase transfer speed, which may hinder compatibility. For example the GB Tower in Stadium 2 is unfortunately not compatible with these changes.
 
@@ -171,13 +182,13 @@ Other software may or may not support this particular method of emulation. Beyon
 
  - Added Nuzlocke team from the streams to the Battle Sim (for a limited time!)
 
-##Reworked Headbutt data
+## Reworked Headbutt data
  - Species are distrubed more evenly
  - A few new species have been added
  - A few maps now are in different groups
  - Updated the sleeping tables to reflect the changes (plus a few that were missing)
 
-##Specialty Ball Reworks:<a name="2_4_0_Ball_Reworks"></a>
+## Specialty Ball Reworks:<a name="2_4_0_Ball_Reworks"></a>
  - Item descriptions have been rewritten to be more useful
  - Prices have been tweaked to better reflect their utility
 
@@ -228,7 +239,7 @@ Stat Exp buffs:
 
 Howdy folks, it's Grizz again!  Another update, another expansion for the Battle Tutor.  This one isn't as big as the last upgrade, but it adds some fun new tools for species that didn't get much love previously and also adds support for some explosive new combos!  I look forward to seeing how these additions are put to use out there in the field.  Go and win some battles!
 
-![](images/2_4_0_Changelog/image5.png)
+![](images/2_4_0_Changelog/image_5.png)
 
 #### Visual updates:
  - Added a new sprite and palette for the cave-in in Cherrygrove Bay Cave.
