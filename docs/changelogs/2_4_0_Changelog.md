@@ -125,7 +125,7 @@ This is an option that you can enable during the patching stage when using Allen
 ![](images/2_4_0_Changelog/image_2.png)
 
 Usage:
- - You'll need to enable the SGB Border using Allen's site or modifying the header directly.
+ - You'll need to enable the SGB Border using [Allen's site](https://inject.fm1337.com/patch) or by modifying the header directly first.
 	 * Note that this WILL break Stadium 2 compatibility, however - the save data can still be used with vanilla Crystal or a non-SGB copy of CC to get around this limitation.
 
  - BGB:
@@ -147,7 +147,7 @@ Other software may or may not support this particular method of emulation. Beyon
  - Added Union Cave B3F (new area!)
 
  - Added 6 new species prizes to a new prize vendor in the Underground Arena
-	 * These are SRable and have the same boosted shiny chance as the other giftmons
+	 * These can be soft-reset and have the same boosted shiny chance as the other giftmons
 
  - Added a bonus puzzle to the Entei Chamber.
 
@@ -173,7 +173,7 @@ Other software may or may not support this particular method of emulation. Beyon
  - Added Nuzlocke team from the streams to the Battle Sim (for a limited time!)
 
 ## Reworked Headbutt data
- - Species are distrubed more evenly
+ - Species are distributed more evenly
  - A few new species have been added
  - A few maps now are in different groups
  - Updated the sleeping tables to reflect the changes (plus a few that were missing)
@@ -183,16 +183,16 @@ Other software may or may not support this particular method of emulation. Beyon
  - Prices have been tweaked to better reflect their utility
 
 Nerfed:
- - Level ball no longer skips the HP and Status checks
+ - Level Ball no longer skips the HP and Status checks
 
 Buffed:
- - Heavy ball now uses lbs instead of kg, and has been bumped down to the 200-400lb range (which adds way more species to the list)
- - Heavy ball no longer has a negative effect if the species is too light
- - Lure ball now also applies to Headbutt and Rock Smash encounters
- - Moon ball now applies to any species that evolves with a stone
- - Friend ball retains its original effect of boosting happiness, but now is also 4x for any species that evolve via happiness
- - Love ball no longer requires the same species, only opposite genders, but is now only 4x instead of 8x.
- - Park balls (in the Bug Catching Contest) now have the Level ball boost if applicable, but otherwise remain 1.5x like the Great ball.
+ - Heavy Ball now uses lbs instead of kg, and has been bumped down to the 200-400lb range (which adds way more species to the list)
+ - Heavy Ball no longer has a negative effect if the species is too light
+ - Lure Ball now also applies to Headbutt and Rock Smash encounters
+ - Moon Ball now applies to any species that evolves with a stone
+ - Friend Ball retains its original effect of boosting happiness, but now is also 4x for any species that evolve via happiness
+ - Love Ball no longer requires the same species, only opposite genders, but is now only 4x instead of 8x.
+ - Park Balls (in the Bug Catching Contest) now have the Level Ball boost if applicable, but otherwise remain 1.5x like the Great Ball.
 
 # Quality of Life Updates:
 
@@ -270,7 +270,7 @@ Howdy folks, it's Grizz again!  Another update, another expansion for the Battle
  - Moved Lass on Route 33
  - Moved the Sailor in the Underground Arena
  - Moved a Fisher in Mahogany Town
- - Luster and Booster balls can no longer be obtained via Gen 1 trades
+ - Luster and Booster Balls can no longer be obtained via Gen 1 trades
  - Trading now requires the traded party member to be alive
  - Tutorial Rattata now has hardcoded DVs
  - Minor animation tweak to make it clear who is talking during the pre-E4 cutscene
