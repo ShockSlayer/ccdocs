@@ -1,7 +1,7 @@
 # Changelogs
 
 ### [v2.4.0](changelogs/2_4_0_Changelog.md)
-*Released on April ??th, 2021.*
+*Released on April 30th, 2021.*
 ### [v2.3.0](changelogs/2_3_0_Changelog.md)
 *Released on January 31st, 2021.*
 ### [v2.2.0](changelogs/2_2_0_Changelog.md)
