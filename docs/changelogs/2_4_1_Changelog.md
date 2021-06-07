@@ -30,6 +30,7 @@ This update is mostly bugfixes, and a few QoL tweaks. Fixes and changes related 
  - Bass's Theme: https://soundcloud.com/user-927422935-571023782/mm7-basss-theme-8-bit
 
 **Fixes:**
+
 *Nuzlocke:*
  - Fixed shiny explanation text having incorrect formatting
  - Fixed Stat Exp from items not calculating correctly when level growth not limited
