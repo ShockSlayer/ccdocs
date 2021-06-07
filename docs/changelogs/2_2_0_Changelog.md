@@ -75,7 +75,7 @@ Following the completion of the chaining feature, it occured to me that it would
 	 * Has its own landmark
 
  - Added **Mirage Sanctuary**
-	 * Mew is available as a stationary here after defeating it and resetting via E4, or by meditiating with Eusine.
+	 * Mew is available as a stationary here after defeating it and resetting via E4, or by meditating with Eusine.
 
  - Added **Power Plant Basement**
 	 * Raikou is available as a stationary here after defeating it and resetting via E4, or by feeding Amphy a Berry.
