@@ -1,9 +1,11 @@
 2.4.1
 --------------
 **Credits:**
+
 NeedsMoreBirds - New Fef frontsprite 
 
 **Preface:**
+
 This update is mostly bugfixes, and a few QoL tweaks. Fixes and changes related to the new events added in 2.4.0 are at the very bottom, so if you don't want to be spoiled on those, then avoid reading further after the "Fixes:" section.
 
 **QoL Changes:**
