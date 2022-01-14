@@ -276,6 +276,12 @@ Howdy folks, it's Grizz again!  Another update, another expansion for the Battle
  - Minor animation tweak to make it clear who is talking during the pre-E4 cutscene
  - Teleporting follower script now has a chance to give a Gold Leaf instead of a Silver Leaf
 
+# New Music:
+
+[Alph Forest](https://soundcloud.com/user-927422935-571023782/crystal-clear-alph-forest-8-bit)
+
+[Astronomia](https://soundcloud.com/user-927422935-571023782/astronomia-8-bit)
+
 # Bugfixes:
  - A lot of internal optimization, compression, and relocation to make space.
  - Minor tweak to the Kenya quest text to avoid using text macros.
