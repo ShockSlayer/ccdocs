@@ -31,11 +31,11 @@ Last thing - this changelog is a bit spoilery, so if you want to experience ever
  - Is a new landmark (reflected in the Town Map layout)
  - While surfing, the party will be healed after every encounter.
  - Has several swarming overworld encounters
-  * first visit will always be Stantler, after that they reset daily
-  * boosted shiny odds, scale with badges, and come with bonus moves
-  * Smeargle uniquely always gets a random move
+	 * first visit will always be Stantler, after that they reset daily
+	 * boosted shiny odds, scale with badges, and come with bonus moves
+	 * Smeargle uniquely always gets a random move
  - There is a small camera panning event to see the swarm from the mountain after entering (for resetting easier)
-  * Activated from the top corner of the ledge to the far right
+	 * Activated from the top corner of the ledge to the far right
  - Has a central island surrounded by whirlpools that starts the **Origin Plains** event
 
 **Added Origin Plains**
