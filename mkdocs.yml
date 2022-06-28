@@ -1,5 +1,36 @@
 site_name: CC Docs
 site_description: Crystal Clear Documentation 
+
+theme:
+    name: material
+    logo: images/Credits/image1.png
+    favicon: images/Credits/image1.png
+    features:
+        - navigation.top
+  
+    palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: cyan
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: light green 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+    - search
+
 nav:
     - Home: 'index.md'
     - FAQ: 'FAQ.md'
