@@ -64,6 +64,8 @@ This fills out the last gap between all the surrounding maps in that area. There
  - After a small quest, he can teach Barrier or Extremespeed to Dratini, Dragonair, or Dragonite.
  - Added an additional learnset category and "Help" page to the Pigydex to reflect this addition.
 
+**Additional Changes:**
+
  - Beth will remain in the Underground after clearing the Arena until you've unlocked the secret residence at least once. She will also appear on Route 40 from then on if you want to switch back to that residence.
 
  - Visiting Silver Cave Outside will unlock "Blood Drain Again" if Birdkeeper Ced has been defeated. This fixes legacy save files who may have missed the normal music unlock event, since he disappears after battle to provide access to the hidden ledge.
