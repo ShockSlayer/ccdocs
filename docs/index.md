@@ -6,7 +6,7 @@
 - [Items](Items.md)
 - [Music](Music.md)
 ----
-- [v2.5.0 Changelog](changelogs/2_5_0_Changelog.md)
+- [v2.5.3 Changelog](changelogs/2_5_3_Changelog.md)
 - [Previous Changelogs](Changelogs.md)
 ----
 - [Credits](Credits.md)

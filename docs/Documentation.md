@@ -473,7 +473,7 @@ Quality-of-life changes:
  - Skips all dialogue.
 
 ### Always run:
- - By default, pressing B in the overworld will allow you to run, activating this option will install have the player always run, and pressing B will make the player walk.
+ - By default, pressing B in the overworld will allow you to run, activating this option will instead have the player always run, and pressing B will make the player walk.
 
 ### Gear Color:
  - Change the Gear's primary color.
