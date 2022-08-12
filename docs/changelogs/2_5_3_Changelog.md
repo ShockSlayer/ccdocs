@@ -28,9 +28,9 @@ Lastly, there's one other new feature - the Area Tab now displays which species 
 
 ## Footprints Rework:
 
-With the Dex now showing footprints, it was only natural that this feature would be used to help find areas where the feature was a little weak. So 2.5.3 comes with a few minor tweaks and reworks to certain areas to make the feature a little more useful. Some of these areas even have headbutt-only species appear as footprints now.
+With the Dex now showing footprints, it was only natural that this feature would be used to help find areas where the feature was a little weak. So **2.5.3** comes with a few minor tweaks and reworks to certain areas to make the feature a little more useful. Some of these areas even have headbutt-only species appear as footprints now.
 
-Areas with reworked footprint data:
+**Areas with reworked footprint data:**
  - Route 37
  - Route 29
  - Route 30
@@ -60,17 +60,17 @@ This fills out the last gap between all the surrounding maps in that area. There
 
 ## Quality of life:
 
-Added the Dragon Tutor in the Dragon Shrine
+**Added the Dragon Tutor in the Dragon Shrine**
  - After a small quest, he can teach Barrier or Extremespeed to Dratini, Dragonair, or Dragonite.
- - Added handling and an additional Help page to the Moves Tab of the Pigydex to reflect this addition.
+ - Added an additional learnset category and "Help" page to the Pigydex to reflect this addition.
 
-Beth will remain in the Underground after clearing the Arena until you've unlocked the secret residence at least once. She will also appear on Route 40 from then on if you want to switch back to that residence.
+ - Beth will remain in the Underground after clearing the Arena until you've unlocked the secret residence at least once. She will also appear on Route 40 from then on if you want to switch back to that residence.
 
-Visiting Silver Cave Outside will unlock "Blood Drain Again" if Birdkeeper Ced has been defeated. This fixes legacy save files who may have missed the normal music unlock event, since he disappears after battle to provide access to the hidden ledge.
+ - Visiting Silver Cave Outside will unlock "Blood Drain Again" if Birdkeeper Ced has been defeated. This fixes legacy save files who may have missed the normal music unlock event, since he disappears after battle to provide access to the hidden ledge.
 
-Battle Tower Ruins now switches palettes correctly based on time of day.
+ - Battle Tower Ruins now switches palettes correctly based on time of day.
 
-Slight visual tweak to the hidden ledge in Seafoam Islands B3F.
+ - Slight visual tweak to the hidden ledge in Seafoam Islands B3F.
 
 ![](images/2_5_3_Changelog/image_5.png)
 
@@ -80,7 +80,7 @@ Slight visual tweak to the hidden ledge in Seafoam Islands B3F.
 
 This is the first ever balance update for the Battle Tutor. After lots of internal discussion and community results, we've removed a few things and added a lot more. While typically I am against nerfing things in a largely single-player experience, this was done to keep things friendly for tournament newcomers, as species-specific moves bans are a bit much to ask people to keep track of out of the gate.
 
-Additionally, Curse is now allowed in the arena again when using the Pigyournament ruleset.
+Additionally, **Curse** is now allowed in the arena again when using the Pigyournament ruleset.
 
 We have also dished out a handful of new moves to help boost the viability of certain species, with our focus largely being on polishing up fighting types who needed an extra boost to keep up with Heracross and Machamp. Here's the full breakdown:
 
