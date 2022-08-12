@@ -14,9 +14,9 @@ It gets better; now once you search a move, it will be displayed at the top of t
 
 *Want to quickly find every species that can Baton Pass Agility? The Dex has your back.*
 
-There's more - previously, the Dex had a significant oversight regarding searching moves - both in the List Tab and in the Moves Tab, there was no handling for moves only learned by previous evolutions. That has been fixed, so all Moves-related operations are now 100% accurate. You might be thinking of one thing I might have missed, don't worry, we'll cover that a little bit later.
+There's more - previously, the Dex had a significant oversight regarding searching moves - both in the List Tab and in the Moves Tab, there was no handling for moves only learned by previous evolutions. So now, **moves learned by previous evolutions are now displayed** so all moves-related operations are now 100% accurate. You might be thinking of one thing I might have missed, don't worry, we'll cover that a little bit later.
 
-Lastly, there's one other new feature - the Area Tab now displays which species have footprints appear in the overworld. This should help with filling out the Dex as well as finding the areas that may best suit your chaining needs. You may even discover species not normally found in the grass...
+Lastly, there's one other new feature - **the Area Tab now displays which species have footprints appear in the overworld.** This should help with filling out the Dex as well as finding the areas that may best suit your chaining needs. You may even discover species not normally found in the grass...
 
 ![](images/2_5_3_Changelog/image_2.png)
 
@@ -46,13 +46,13 @@ With the Dex now showing footprints, it was only natural that this feature would
 
 ![](images/2_5_3_Changelog/image_3.png)
 
-*You are no longer safe on the first route of the game.*
+*You are no longer safe from Mankey on the first route of the game.*
 
 ## Expansion:
 
  - Slightly expanded Route 35.
 
-This fills out the last gap between all the surrounding maps in that area. There's a couple goodies on the ground and a mysterious house, which may be linked to the Ruins of Alph. Worth a visit before and after completing the quest, for sure.
+This fills out the last gap between all the surrounding maps in that area. There's a couple goodies on the ground and a mysterious house, which may be linked to the Ruins of Alph. Worth a visit before and after completing the Alph Forest related quests, for sure.
 
 ![](images/2_5_3_Changelog/image_4.png)
 
