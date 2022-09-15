@@ -10,7 +10,7 @@ This is an advanced but hacky feature that has no bearing on regular gameplay, s
 
 ![](images/2_5_4_Changelog/image_1.png)
 
-(Full release and details coming soon - check back here later. Normally I'd wait until it's all ready to go, but the patch needs to be out to give people time to prepare for the upcoming tournament.)
+[(Youtube Video)](https://www.youtube.com/watch?v=aVNR-Xv6xgc "HSL OTIDs")
 
 ## Quality of life:
 
