@@ -9,9 +9,11 @@ Recently, in a big text post about the state of the game, I mentioned that I saw
 ## Quality of life:
 
  - Added a New Game Selection Screen
+ 
  ![](images/2_5_6_Changelog/image_1.png)
  
  - Added a loading bar animation and sound effect for the "Skip intro text with Select" prompt
+ 
  ![](images/2_5_6_Changelog/image_2.gif)
 
  - PP Up is now PP Max
