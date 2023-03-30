@@ -65,7 +65,7 @@ The way this works internally is, after each unsuccessful shiny roll, each DV ha
  - Fixed a small visual inconsistency with a few of the pack designs
  - Fixed a typo in Slowpoke text in Azalea Town
  - Fixed footprints on Route 35 using the wrong tile
- - Fixed sprites with hair flip disabled bot disabling on the Gear map when the biking or pika surfing
+ - Fixed hair flip not being applied correctly on the Gear map when biking or pika surfing
  - Fixed getting Ditto and Togepi eggs displaying "Error" in the Dex's search tab
 
  ![](images/2_5_6_Changelog/image_5.png)
