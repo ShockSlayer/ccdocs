@@ -20,7 +20,8 @@ Recently, in a big text post about the state of the game, I mentioned that I saw
 
  - Legality Fixer now properly detects purely illegal moves, and has proper handling for Extremespeed on the Dratini family
 
- - When the requirements are fulfilled for making a roamer stationary, it will display as such in the Dex's search tab
+ - When the requirements are fulfilled for making a roamer stationary, it will display as such in the Dex's search tab:
+ 
  ![](images/2_5_6_Changelog/image_3.png)
 
  - Added a broken TV in Route 35 house to help with the final tablet puzzle
