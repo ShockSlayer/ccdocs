@@ -9,17 +9,17 @@ Recently, in a big text post about the state of the game, I mentioned that I saw
 ## Quality of life:
 
  - Added a New Game Selection Screen
- ![](images/2_5_4_Changelog/image_1.png)
+ ![](images/2_5_6_Changelog/image_1.png)
  
  - Added a loading bar animation and sound effect for the "Skip intro text with Select" prompt
- ![](images/2_5_4_Changelog/image_2.gif)
+ ![](images/2_5_6_Changelog/image_2.gif)
 
  - PP Up is now PP Max
 
  - Legality Fixer now properly detects purely illegal moves, and has proper handling for Extremespeed on the Dratini family
 
  - When the requirements are fulfilled for making a roamer stationary, it will display as such in the Dex's search tab
- ![](images/2_5_4_Changelog/image_3.png)
+ ![](images/2_5_6_Changelog/image_3.png)
 
  - Added a broken TV in Route 35 house to help with the final tablet puzzle
 
@@ -43,7 +43,7 @@ The way this works internally is, after each unsuccessful shiny roll, each DV ha
 
  - Added water to Rock Tunnel B1F, which is only accessible by having a follower with dig and interacting with rocks near an otherwise inaccessible ladder
 
- ![](images/2_5_4_Changelog/image_4.png)
+ ![](images/2_5_6_Changelog/image_4.png)
 
 ## Battle Tutor Changes:
 
@@ -65,4 +65,4 @@ The way this works internally is, after each unsuccessful shiny roll, each DV ha
  - Fixed sprites with hair flip disabled bot disabling on the Gear map when the biking or pika surfing
  - Fixed getting Ditto and Togepi eggs displaying "Error" in the Dex's search tab
 
- ![](images/2_5_4_Changelog/image_5.png)
+ ![](images/2_5_6_Changelog/image_5.png)
