@@ -1,7 +1,7 @@
 # Changelogs
 
 ### [v2.5.6](changelogs/2_5_6_Changelog.md)
-*Released on March 30th, 2022.*
+*Released on March 30th, 2023.*
 ### [v2.5.5](changelogs/2_5_5_Changelog.md)
 *Released on October 6th, 2022.*
 ### [v2.5.4](changelogs/2_5_4_Changelog.md)
