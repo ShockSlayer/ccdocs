@@ -4,7 +4,7 @@
 
 I'll admit, I didn't expect to put anything out again this soon, but there were a few things that still irked me about CC. This update has one large focus - breeding had fallen off pretty hard in CC given how effective chaining was, and I wanted to address it. So I've added a few new things that you can read about below.
 
-## New Menu Account Options:
+## New Menu Account Options:<a name="2_5_7_menu_account"></a>
 
 The menu account option has largely been pointless for anyone who's played a game before and knows what a start menu is. You can still use it in all its vanilla glory, but for the more efficient, new options now exist:
 

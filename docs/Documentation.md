@@ -181,7 +181,7 @@ Last but not least, before asking a question in the Discord, please **use the se
 ### Roaming Trainers:<a name="Roaming_Trainers"></a>
 These trainers will appear in every possible location on every single day until you meet them for the first time. Then they follow this schedule:
 
-**Chronicler Robert**
+**Chronicler Rowan**
  - Route 28 (Sunday)
  - Cherrygrove Bay (Monday)
  - Route 24 (Tuesday)
@@ -194,11 +194,7 @@ These trainers will appear in every possible location on every single day until 
  - Cinnabar Tunnel (Wednesday)
  - New secret area within Mt. Silver (Thursday)
 
-**Realter Neph**
- - Viridian Forest (Wednesday)
- - Route 28 (Friday)
-
-**Diviner Ryan**
+**Diviner Rain**
  - Goldenrod Cafe (Sunday)
  - Ruins of Alph (All other days)
 
@@ -318,6 +314,7 @@ New Features:
  - Buying coins has now been made simpler with a new UI and allows buying exact numbers
  - Riding the bike now allows the player to headbutt without having a party member that knows it.
  - Lucky Punch now has a secondary effect: when held by any species, it will double the added catch chance from status.
+ - The PP Up item has been changed to the PP Max, which is the equivalent of using 3; while also restoring the current PP.
  - Added multiple item quantities
 	* "Player found 5 FAST BALLS!"
 
@@ -334,7 +331,7 @@ Quality-of-life changes:
  - Overworld poison fades away at 1HP
  - Name Rater is no longer restricted by matching OTIDs
 	 * This means you can rename traded party members
- - Traded obedience was rescaled to be 10x the current badge count
+ - Traded obedience was rescaled to be 10x the current badge count, and now checks the OT Name instead of ID
 	 * For example, 2 badges is up to Lv 20, 3 badges is up to Lv 30 etc.
 	 * With the exception of 1 badge, which is up to Lv 15.
  - Any time the party is healed, each party member's stats are updated.
@@ -345,11 +342,13 @@ Quality-of-life changes:
 	 * Can now be ended earlier by pressing A, or can ride indefinitely until pressing A.
 	 * Pressing Select will honk the train horn.
  - The player can now fish while surfing
+ - After obtaining 8 badges, regular Exp gain in battle is boosted to 1.5x
 
 ### Stat Exp buffs:
- - Goldenrod Cafe now applies 3x if party member is infected/cured
+ - Goldenrod Cafe now applies 4x if party member is infected/cured
  - Battles now apply 3x instead of 2x if party member is infected/cured
  - Stat Exp items now apply 2x if party member is infected/cured
+ - After obtaining 8 badges, Stat Exp gain in battle is 2x, 4x when infected/cured
 
 ### Stadium 2:
  - No longer requires saving at a center
@@ -413,8 +412,9 @@ Quality-of-life changes:
  - The poison overworld animation is now much softer.
  - NPCs now have custom palettes to bring more color to the landscape
 	 * This is also reflected in-battle for generic trainers, sprites will match the overworld colors
- - Some species have "nickname palettes" which will change their natural color with a certain combination of nickname and DVs.
-  - In battle, the Hidden Power animation is now colored based on what type it is
+ - Some species have "nickname palettes" which will change their natural color with a certain combination of nickname and DVs; these are case-insensitive.
+ - In battle, the Hidden Power animation is now colored based on what type it is
+ - There is a special form for Lugia, unlockable before capture by completing a small quest inside the Whirl Islands. There may be NPCs nearby offering hints about this.
 
 **7. Move Tutors and other helpful NPCs**<a name="helpful_npcs"></a>
 ==========================================
@@ -429,6 +429,7 @@ Quality-of-life changes:
  - A new "Battle Tutor" teaches reasonable, but non-canon moves to boost the effectiveness of certain species. Located in Dark Cave (Blackthorn Side) without using Flash, and Route 3 (Mount Moon Square Exit.)
  - A new set of tutors are available in Vermilion City, who will teach egg moves and future level-up moves, in exchange for a Gold or Silver Leaf.
  - In the Ruins of Alph, there is an Unown Shrine that can teach Unown different moves.
+ - In the Dragon's Den, there is a Dragon Tutor that can teach certain species ExtremeSpeed and Barrier.
 
 ### Helpful NPCs:
  - Several helpful NPCs have been consolidated to a new area, which is accessible from Goldenrod City, Blackthorn City, Lavender Town, and Fuchsia City. These include:
@@ -436,7 +437,8 @@ Quality-of-life changes:
 	 * Name Rater
 	 * Move Reminder (new!)
 	 * Legality Fixer (new!)
-	 * Nature Tweaker (new!)
+	 * Nature Tweaker (new! for transfer only)
+	 * Deleveler (new!)
 
 ### Helpful Phone Numbers:
  - Bill will automatically call you when your Box is full, and switch it for you if you have room.
@@ -489,6 +491,10 @@ Quality-of-life changes:
 
 ### Text speed:
  - **NONE** setting instantly prints text.
+ 
+### Menu Account:
+ - See: [the 2.5.7 changelog](changelogs/2_5_7_Changelog.md#2_5_7_menu_account) for more information.
+
 
 See also: [Music Menu](#music)
 
@@ -526,6 +532,7 @@ As the game continues to grow, many small tweaks and changes will be made and on
  - Silph Co. 2F
  - Saffron City Abilities House
  - Union Cave B3F
+ - Lake Tohjo
 
 ### Ported/Expanded:
  - Viridian Forest (with a few minor changes)
@@ -546,6 +553,7 @@ As the game continues to grow, many small tweaks and changes will be made and on
  - Route 27
  - Ruins of Alph
  - Cianwood City
+ - Route 35
  - Route 40
  - Route 41 (Whirl Islands)
  - Route 42
@@ -622,7 +630,7 @@ The **1/8192** chance has been preserved for wild encounters, but some quality o
 
 ### Increased odds:
  - Safari Zone and National Park (including the Bug Catching Contest) have their shiny odds increased by way of additional rerolls. See: [Chaining](#chaining)
- - Gifts (Like the Starter, Game Corner prizes, etc.) have been increased to **1/1024.**
+ - Gifts (Like the Starter, Game Corner prizes, etc.) have been increased to **1/1024;** and have the additional effect of also trying to roll for higher DVs.
  - Certain stationaries have increased odds to **1/1024.** This affects:
 	 * Grullo Gorge - Aerodactyl
 	 * Ice Path B3F - Piloswine
@@ -796,6 +804,7 @@ All of these can be chained, however this takes a little bit of extra understand
 Sweet Scent has a new utility - when used while a chain is active, boosts the encounter rate rerolls to the max of 80. What this means is that it can be used to quickly build up chains, and is designed for more easily starting chains of 1% encounters, since these can be more cumbersome to find just by walking, even with extra rolls active.
 
 #### Misc:
+ - Having an active chain prevents fleeing for any non-roaming species that would have a chance to do so.
  - The Dex Tracker can be put into the PC, and will still track chains and apply the options. This is not recommended.
 
 **13. Renewable Resources, E4 Resetting and Trades**<a name="renewables"></a>

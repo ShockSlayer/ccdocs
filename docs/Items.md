@@ -129,7 +129,7 @@ TMs (Overworld Locations)
 
 TMs (Dept.Stores)
 ------------------
-*Both regions have a Dept.Store, each which has a floor with a TM mart. As you earn badges, more sets will be unlocked. At 6 badges, all TMs become available.*
+*Both regions have a Dept.Store, each which has a floor with a TM mart. As you earn badges, more sets will be unlocked. At 8 badges, all TMs become available.*
  - **Johto:** *Goldenrod Dept.Store 5F*
  - **Kanto:** *Celadon Dept.Store 3F*
 ### Set 1
@@ -490,7 +490,7 @@ Prizes:
 	 * (1000 Coins)
  - **BRIGHTPOWDER**
 	 * (1000 Coins)
- - **PP UP**
+ - **PP MAX**
 	 * (2400 Coins)
 
 ### Underground Arena
