@@ -71,6 +71,7 @@ You may also be looking for: [ShockSlayer's Soundcloud.](https://soundcloud.com/
 
 **Mega Man Zero 2 - Power Bom:**
 - Savage Randy (Underground Arena)
+- Super Nerd Cosmo (Underground Arena)
 
 **Mega Man Zero 3 - Cannonball**  
 **Mega Man Zero 4 - Nothing Beats:**

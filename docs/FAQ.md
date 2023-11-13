@@ -96,7 +96,7 @@
 - Visit the Intrinsic Field Generator in the basement of the Goldenrod Dept. Store. You can use the same character customizer as the intro sequence. However, you may not change your name.
 
 ## How do I inject a starter/character?
-- Use [the injector site.](https://inject.fm1337.com/) A template is provided for character creation. There is also a save pinned in the /#custom-sprites channel in the Discord, which can be used for testing sprites before playing.
+- Use [the injector site.](https://inject.sigkill.tech/) A template is provided for character creation. There is also a save pinned in the /#custom-sprites channel in the Discord, which can be used for testing sprites before playing.
 
 - A correctly injected character will show up at the end of the list when using the Character Select Screen. Pressing SELECT on the starter select screen will select the injected starter.
 
@@ -104,17 +104,17 @@
 - **The site doesn't lie.** If you were careless with your template, you may have shifted the image, or have stray pixels that are slightly different colors than the correct ones, usually due to having anti-aliasing turned on.
 
 ## The injector site is throwing an error even though I'm doing everything correctly!
-- It's a possibility that either you or the site is experiencing some issues, if something went wrong you ***should*** have received an error message, please pass this error to Allen on discord
+- It's a possibility that either you or the site is experiencing some issues, if something went wrong you ***should*** have received an error message, please pass this error to Allen in the Discord server.
 
 ## How do I choose my follower in the overworld?
 - On the Party Screen press **Select** on a party member to make them follow you!
 
 ## How do I speak in the Discord?
-- Type "!unsilencehogge" into \#enter-here
+- Type "!boisterousboar" into \#enter-here
 - Congratulations! If you made it this far, you should have some basic information that will help you get familiar with what's in the game and what *not* to ask in the server.
 
 ## How do I move an emulator save to the 3DS?
-- First make sure to use [this](https://inject.fm1337.com/vc-save) to convert your save (.SAV) to a compatible format, then using a tool such as [Checkpoint](https://github.com/FlagBrew/Checkpoint) you can inject the save into your game.
+- First make sure to use [this](https://inject.sigkill.tech/converter/3dsvc) to convert your save (.SAV) to a compatible format, then using a tool such as [Checkpoint](https://github.com/FlagBrew/Checkpoint) you can inject the save into your game.
 
 # Troubleshooting
 
