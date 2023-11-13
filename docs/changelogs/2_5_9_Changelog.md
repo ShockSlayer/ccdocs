@@ -27,6 +27,7 @@ This is mostly bug fixes and minor balance tweaks, but I did sneak some minor Qo
  - Thief now knocks the item out of the enemy's hands for later collection when used outside of link battles.
 
 ![](images/2_5_9_Changelog/image_1.gif)
+
 *Combine this with the Compound Eyes Pseudo Ability and Chaining. Trust me.*
 
  - Added SUPER NERD COSMO to the randomized Underground Arena trainers, to increases the chance that the Power Bom music will be unlocked during a single run of the arena, if RANDY isn't encountered.
