@@ -516,6 +516,8 @@ Berry trees
  - Route 11 **(Berry)**
  - Route 29 **(Berry)**
  - Route 38 **(Berry)**
+ - Route 39 **(Berry)**
+ - Route 3 **(Gold Berry)**
  - Route 30 **(PsnCureBerry)** **(Berry)**
  - Route 46 **(PrzCureBerry)** **(Berry)**
  - Violet City **(PrzCureBerry)**
