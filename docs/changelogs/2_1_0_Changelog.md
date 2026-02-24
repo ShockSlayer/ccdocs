@@ -635,39 +635,39 @@ A few tracks also received some minor fixes and updates.
 
 ### Music additions
 
-[Megalovania](https://soundcloud.com/user-927422935-571023782/undertale-megalovania-ssbu8-bit)
+[Megalovania](https://soundcloud.com/shockslayer/undertale-megalovania-ssbu8-bit)
 
-[Determined Eyes](https://soundcloud.com/user-927422935-571023782/mega-man-zx-advent-determined-eyes-double-megamerge-8-bit)
+[Determined Eyes](https://soundcloud.com/shockslayer/mega-man-zx-advent-determined-eyes-double-megamerge-8-bit)
 
-[X4 Char Select](https://soundcloud.com/user-927422935-571023782/mmx4-character-select-8-bit)
+[X4 Char Select](https://soundcloud.com/shockslayer/mmx4-character-select-8-bit)
 
-[Rainy Turtloid](https://soundcloud.com/user-927422935-571023782/mmx6-rainy-turtloid-8-bit)
+[Rainy Turtloid](https://soundcloud.com/shockslayer/mmx6-rainy-turtloid-8-bit)
 
-[MMZ Clear Stage](https://soundcloud.com/user-927422935-571023782/mmz-clear-stage-8-bit)
+[MMZ Clear Stage](https://soundcloud.com/shockslayer/mmz-clear-stage-8-bit)
 
-[Gen 8 Gym Leader theme](https://soundcloud.com/user-927422935-571023782/swsh-gym-leader-theme-8-bit-by-shinkonetcavy)
+[Gen 8 Gym Leader theme](https://soundcloud.com/shockslayer/swsh-gym-leader-theme-8-bit-by-shinkonetcavy)
 
-[Divine Bloodlines](https://soundcloud.com/user-927422935-571023782/castlevania-divine-bloodlines-8-bit)
+[Divine Bloodlines](https://soundcloud.com/shockslayer/castlevania-divine-bloodlines-8-bit)
 
-[Stadium 2 Anthem Remix](https://soundcloud.com/user-927422935-571023782/pokemon-stadium-2-anthem-remix-8-bit)
+[Stadium 2 Anthem Remix](https://soundcloud.com/shockslayer/pokemon-stadium-2-anthem-remix-8-bit)
 
-[Combustion](https://soundcloud.com/user-927422935-571023782/mega-man-zero-3-combustion-8-bit)
+[Combustion](https://soundcloud.com/shockslayer/mega-man-zero-3-combustion-8-bit)
 
-[LoZ:TP Hidden Skill Training](https://soundcloud.com/user-927422935-571023782/loztp-hidden-skill-training-8-bit)
+[LoZ:TP Hidden Skill Training](https://soundcloud.com/shockslayer/loztp-hidden-skill-training-8-bit)
 
-[Where the hood at?](https://soundcloud.com/user-927422935-571023782/dmx-where-the-hood-at-8-bit)
+[Where the hood at?](https://soundcloud.com/shockslayer/dmx-where-the-hood-at-8-bit)
 
-[Power Bom](https://soundcloud.com/user-927422935-571023782/mega-man-zero-2-power-bom-8-bit)
+[Power Bom](https://soundcloud.com/shockslayer/mega-man-zero-2-power-bom-8-bit)
 
-[Electric Zoo](https://soundcloud.com/user-927422935-571023782/electric-zoo-8-bit)
+[Electric Zoo](https://soundcloud.com/shockslayer/electric-zoo-8-bit)
 
-[Grand Prix](https://soundcloud.com/user-927422935-571023782/mmbn3-n1-grand-prix-8-bit)
+[Grand Prix](https://soundcloud.com/shockslayer/mmbn3-n1-grand-prix-8-bit)
 
-[Great Battlers](https://soundcloud.com/user-927422935-571023782/mmbn3-great-battlers-8-bit)
+[Great Battlers](https://soundcloud.com/shockslayer/mmbn3-great-battlers-8-bit)
 
-[LoZ:LA Overworld](https://soundcloud.com/user-927422935-571023782/loz-la-overworld-8-bit)
+[LoZ:LA Overworld](https://soundcloud.com/shockslayer/loz-la-overworld-8-bit)
 
-[Rocket Jump Waltz](https://soundcloud.com/user-927422935-571023782/tf2-rocket-jump-waltz-8-bit)
+[Rocket Jump Waltz](https://soundcloud.com/shockslayer/tf2-rocket-jump-waltz-8-bit)
 
  - Rocket Overture was readded to Sound of Pig
 

@@ -131,32 +131,32 @@ Misc updates and changes:
 
 New Music:
 ----------
-["Alola Legend"](https://soundcloud.com/user-927422935-571023782/solgaleo-lunala-battle-music-8-bit)
+["Alola Legend"](https://soundcloud.com/shockslayer/solgaleo-lunala-battle-music-8-bit)
 
-["Eyes of Flame"](https://soundcloud.com/user-927422935-571023782/cave-story-eyes-of-fire-8-bit)
+["Eyes of Flame"](https://soundcloud.com/shockslayer/cave-story-eyes-of-fire-8-bit)
 
-["Splattack"](https://soundcloud.com/user-927422935-571023782/splatoon-splattack-8-bit)
+["Splattack"](https://soundcloud.com/shockslayer/splatoon-splattack-8-bit)
 
-["Misty Mountains"](https://soundcloud.com/user-927422935-571023782/the-hobbit-misty-mountains-8-bit)
+["Misty Mountains"](https://soundcloud.com/shockslayer/the-hobbit-misty-mountains-8-bit)
 
-["All Star Mode"](https://soundcloud.com/user-927422935-571023782/ssbm-all-star-mode-8-bit)
+["All Star Mode"](https://soundcloud.com/shockslayer/ssbm-all-star-mode-8-bit)
 
-["Bubble Crab"](https://soundcloud.com/user-927422935-571023782/megaman-x2-bubble-crab-8-bit)
+["Bubble Crab"](https://soundcloud.com/shockslayer/megaman-x2-bubble-crab-8-bit)
 
-["Contra Boss Battle"](https://soundcloud.com/user-927422935-571023782/contra-boss-battle-theme-8-bit)
+["Contra Boss Battle"](https://soundcloud.com/shockslayer/contra-boss-battle-theme-8-bit)
 
-["A Moment of Silence"](https://soundcloud.com/user-927422935-571023782/streetlight-manifesto-a-moment-of-silence-8-bit)
+["A Moment of Silence"](https://soundcloud.com/shockslayer/streetlight-manifesto-a-moment-of-silence-8-bit)
 
-["Crash"](https://soundcloud.com/user-927422935-571023782/megaman-zero-crash-8-bit)
+["Crash"](https://soundcloud.com/shockslayer/megaman-zero-crash-8-bit)
 
-["X, the legend"](https://soundcloud.com/user-927422935-571023782/megaman-zero-x-the-legend-8-bit)
+["X, the legend"](https://soundcloud.com/shockslayer/megaman-zero-x-the-legend-8-bit)
 
-["Supreme Ruler"](https://soundcloud.com/user-927422935-571023782/megaman-zero-2-supreme-ruler-8-bit)
+["Supreme Ruler"](https://soundcloud.com/shockslayer/megaman-zero-2-supreme-ruler-8-bit)
  * unimplemented
 
-["X vs Zero"](https://soundcloud.com/user-927422935-571023782/megaman-x5-x-vs-zero-8-bit)
+["X vs Zero"](https://soundcloud.com/shockslayer/megaman-x5-x-vs-zero-8-bit)
 
-["Guile's Theme"](https://soundcloud.com/user-927422935-571023782/guiles-theme-8-bit) 
+["Guile's Theme"](https://soundcloud.com/shockslayer/guiles-theme-8-bit) 
  * Goes with everything
 
 "JohtoGSC remix" by Froggestspirit was also added, but is not present on Soundcloud.

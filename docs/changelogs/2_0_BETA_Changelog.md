@@ -476,7 +476,7 @@ Added two **Ace Trainers** to the overworld:
 	* This is because it has to scroll past all the other scaling trainers first
 
 ## NEW MUSIC
- - Added [BN5 Battle Theme](https://soundcloud.com/user-927422935-571023782/mmbn5-virus-battle-8-bit)
+ - Added [BN5 Battle Theme](https://soundcloud.com/shockslayer/mmbn5-virus-battle-8-bit)
  - Tweaked "A Knight's Oath" theme a little bit
  - Added TCG Ronald's theme (Danny-E 33)
  - Added TCG Pause Menu (Danny-E 33)

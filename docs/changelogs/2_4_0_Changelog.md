@@ -125,7 +125,7 @@ This is an option that you can enable during the patching stage when using Allen
 ![](images/2_4_0_Changelog/image_2.png)
 
 Usage:
- - You'll need to enable the SGB Border using [Allen's site](https://inject.fm1337.com/patch) or by modifying the header directly first.
+ - You'll need to enable the SGB Border using [Allen's site](https://inject.sigkill.tech/patch/cc) or by modifying the header directly first.
 	 * Note that this WILL break Stadium 2 compatibility, however - the save data can still be used with vanilla Crystal or a non-SGB copy of CC to get around this limitation.
 
  - BGB:
@@ -278,9 +278,9 @@ Howdy folks, it's Grizz again!  Another update, another expansion for the Battle
 
 # New Music:
 
-[Alph Forest](https://soundcloud.com/user-927422935-571023782/crystal-clear-alph-forest-8-bit)
+[Alph Forest](https://soundcloud.com/shockslayer/crystal-clear-alph-forest-8-bit)
 
-[Astronomia](https://soundcloud.com/user-927422935-571023782/astronomia-8-bit)
+[Astronomia](https://soundcloud.com/shockslayer/astronomia-8-bit)
 
 # Bugfixes:
  - A lot of internal optimization, compression, and relocation to make space.

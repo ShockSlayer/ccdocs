@@ -562,32 +562,32 @@ Leader Blue might see a lot of *himself* in you.
 ## MUSIC
 **Added the following tracks:**
 
-[Dynamo's Theme](https://soundcloud.com/user-927422935-571023782/megaman-x5-dynamos-theme-8-bit)
+[Dynamo's Theme](https://soundcloud.com/shockslayer/megaman-x5-dynamos-theme-8-bit)
 
-[Jake Marshall's Theme](https://soundcloud.com/user-927422935-571023782/jake-marshall-8-bit)
+[Jake Marshall's Theme](https://soundcloud.com/shockslayer/jake-marshall-8-bit)
 
-[Mad World](https://soundcloud.com/user-927422935-571023782/mad-world-8-bit)
+[Mad World](https://soundcloud.com/shockslayer/mad-world-8-bit)
 
-[Pizza Time](https://soundcloud.com/user-927422935-571023782/pizza-time-8-bit)
+[Pizza Time](https://soundcloud.com/shockslayer/pizza-time-8-bit)
 
-[BN3 Internet](https://soundcloud.com/user-927422935-571023782/mmbn3-network-is-spreading-internet-theme-8-bit)
+[BN3 Internet](https://soundcloud.com/shockslayer/mmbn3-network-is-spreading-internet-theme-8-bit)
 
-[Perel's theme](https://soundcloud.com/user-927422935-571023782/terranigma-perels-theme-8-bit)
+[Perel's theme](https://soundcloud.com/shockslayer/terranigma-perels-theme-8-bit)
 
-[High Max](https://soundcloud.com/user-927422935-571023782/megaman-x6-high-max-8-bit)
+[High Max](https://soundcloud.com/shockslayer/megaman-x6-high-max-8-bit)
 
-[Funky's Fugue](https://soundcloud.com/user-927422935-571023782/donkey-kong-country-funkys-fugue-8-bit)
+[Funky's Fugue](https://soundcloud.com/shockslayer/donkey-kong-country-funkys-fugue-8-bit)
 
-[Endless Stairs](https://soundcloud.com/user-927422935-571023782/super-mario-64-endless-stairs-8-bit)
+[Endless Stairs](https://soundcloud.com/shockslayer/super-mario-64-endless-stairs-8-bit)
 
-[Nothing Beats](https://soundcloud.com/user-927422935-571023782/mmz4-nothing-beats-8-bit)
+[Nothing Beats](https://soundcloud.com/shockslayer/mmz4-nothing-beats-8-bit)
 
-[Blitz it](https://soundcloud.com/user-927422935-571023782/splatoon-2-blitz-it-8-bit)
+[Blitz it](https://soundcloud.com/shockslayer/splatoon-2-blitz-it-8-bit)
 (special thanks to Haru for creating the drum track!)
 
-[Run Run Run](https://soundcloud.com/user-927422935-571023782/gameboy-camera-run-run-run-gsc-8-bit)
+[Run Run Run](https://soundcloud.com/shockslayer/gameboy-camera-run-run-run-gsc-8-bit)
 
-[Wily Field](https://soundcloud.com/user-927422935-571023782/megaman-soccer-wily-field-8-bit)
+[Wily Field](https://soundcloud.com/shockslayer/megaman-soccer-wily-field-8-bit)
 
 **Readded music:**
  - GSC Rival's Theme (Bike)

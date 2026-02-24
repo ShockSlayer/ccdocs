@@ -121,20 +121,20 @@ Tweaked Doom's E4 team
 
 While optimizing, I ended up tweaking Dynamo's theme and replacing Together We Ride with a new version entirely.
 
-[Dynamo's Theme](https://soundcloud.com/user-927422935-571023782/mmx5-dynamos-theme-8-bit-v2)
+[Dynamo's Theme](https://soundcloud.com/shockslayer/mmx5-dynamos-theme-8-bit-v2)
 
-[Together We Ride](https://soundcloud.com/user-927422935-571023782/fire-emblem-remix-8-bit)
+[Together We Ride](https://soundcloud.com/shockslayer/fire-emblem-remix-8-bit)
 
-[Blood Drain Again](https://soundcloud.com/user-927422935-571023782/blood-drain-again-8-bit)
+[Blood Drain Again](https://soundcloud.com/shockslayer/blood-drain-again-8-bit)
  - Cedsi now uses this as his battle theme
 
-[Lake Tohjo](https://soundcloud.com/user-927422935-571023782/crystal-clear-lake-tohjo-8-bit)
+[Lake Tohjo](https://soundcloud.com/shockslayer/crystal-clear-lake-tohjo-8-bit)
 
-[Origin Plains](https://soundcloud.com/user-927422935-571023782/crystal-clear-origin-plains)
+[Origin Plains](https://soundcloud.com/shockslayer/crystal-clear-origin-plains)
 
-[Ho-Oh Appears](https://soundcloud.com/user-927422935-571023782/heart-gold-ho-oh-appears-8-bit)
+[Ho-Oh Appears](https://soundcloud.com/shockslayer/heart-gold-ho-oh-appears-8-bit)
 
-[After Lugia Appears](https://soundcloud.com/user-927422935-571023782/soul-silver-after-lugia-appears-8-bit)
+[After Lugia Appears](https://soundcloud.com/shockslayer/soul-silver-after-lugia-appears-8-bit)
 
 # Fixes:
  - Fixed Unown Tutor not having correct table start entry

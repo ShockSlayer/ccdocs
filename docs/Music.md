@@ -4,7 +4,7 @@
 
 *These music tracks are unlocked by battling, under the listed conditions/locations. Sorted by game series.*
 
-You may also be looking for: [ShockSlayer's Soundcloud.](https://soundcloud.com/user-927422935-571023782)
+You may also be looking for: [ShockSlayer's Soundcloud.](https://soundcloud.com/shockslayer)
 
 **Cipher Peon Theme (Colosseum)**  
 **Cipher Peon Theme (XD: Gale of Darkness):**
@@ -67,7 +67,7 @@ You may also be looking for: [ShockSlayer's Soundcloud.](https://soundcloud.com/
 - Fibbef (Silver Cave)
 
 **Mega Man Zero 2 - Crash:**
-- Neph (Indigo Plateau)
+- DJ Fef (Indigo Plateau)
 
 **Mega Man Zero 2 - Power Bom:**
 - Savage Randy (Underground Arena)

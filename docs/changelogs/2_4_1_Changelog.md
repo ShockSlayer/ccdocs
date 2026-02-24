@@ -28,8 +28,8 @@ This update is mostly bugfixes, and a few QoL tweaks. Fixes and changes related 
  - This is to help offset the amount of grinding required since the second set of Gyms scales much higher.
 
 **New Music:**
- - Spark Mandrill: https://soundcloud.com/user-927422935-571023782/mega-man-x-spark-mandrill-8-bit
- - Bass's Theme: https://soundcloud.com/user-927422935-571023782/mm7-basss-theme-8-bit
+ - Spark Mandrill: https://soundcloud.com/shockslayer/mega-man-x-spark-mandrill-8-bit
+ - Bass's Theme: https://soundcloud.com/shockslayer/mm7-basss-theme-8-bit
 
 **Fixes:**
 
