@@ -19,6 +19,7 @@ This has now been addressed. **Individual TMs in the TM shop are now also unlock
 Additionally, Thief is now available as part of the initially unlocked TMs.
 
 ![](images/2_6_0_Changelog/image_1.gif)
+
 *The situation should now be improved. Good luck!*
 
 ## New Music
