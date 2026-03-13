@@ -4,7 +4,7 @@
 
 2025 didn't see any updates, for the reasons previously outlined in the [2.5.9 changelog preface.](2_5_9_Changelog.md#Preface) I have been steadily working on my next project, which I've written a decent bit about on [shockslayer.com](https://shockslayer.com) for anyone curious.
 
-**2.6.0** sees a handful of bugs squashed, but more importantly comes with a reworked TM Shop interface and some new music. I want to extend a special thanks to CosmicAngel, who not only offered to optimize some of the older music tracks that needed it, but even entirely remade a few to sound significantly better and use less space. Even just the bugfixes for this update wouldn't have fit in the remaining space, so 2.6.0 couldn't have happened without him.
+**2.6.0** sees a handful of bugs squashed, but more importantly comes with a reworked TM Shop interface and some new music. I want to extend a special thanks to ***CosmicAngel***, who not only offered to optimize some of the older music tracks that needed it, but even entirely remade a few to sound significantly better and use less space. Even just the bugfixes for this update wouldn't have fit in the remaining space, so 2.6.0 couldn't have happened without him.
 
 All things considered, one of the previous updates was probably a better candidate for the "2.6.0" version designation. For this one, we'll go with a "better late than never" approach.
 
