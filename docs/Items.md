@@ -134,62 +134,62 @@ TMs (Dept.Stores)
  - **Kanto:** *Celadon Dept.Store 3F*
 ### Set 1
 *Immediately available*
- - **HEADBUTT**
  - **CURSE**
- - **ROCK SMASH**
- - **HIDDEN POWER**
- - **SUNNY DAY**
- - **SWEET SCENT**
- - **PROTECT**
- - **RAIN DANCE**
- - **FRUSTRATION**
- - **RETURN**
- - **ICE PUNCH**
- - **SANDSTORM**
  - **DEFENSE CURL**
- - **THUNDERPUNCH**
  - **DETECT**
  - **FIRE PUNCH**
+ - **FRUSTRATION**
+ - **HEADBUTT**
+ - **HIDDEN POWER**
+ - **ICE PUNCH**
+ - **PROTECT**
+ - **RAIN DANCE**
+ - **RETURN**
+ - **ROCK SMASH**
+ - **SANDSTORM**
+ - **SUNNY DAY**
+ - **SWEET SCENT**
+ - **THIEF**
+ - **THUNDERPUNCH**
 ### Set 2
 *Available at 4+ badges*
- - **ROLLOUT**
- - **ROAR**
- - **PSYCH UP**
- - **SNORE**
- - **ENDURE**
  - **DIG**
  - **DOUBLE TEAM**
- - **SWAGGER**
+ - **DREAM EATER**
+ - **ENDURE**
+ - **NIGHTMARE**
+ - **PSYCH UP**
+ - **REST**
+ - **ROAR**
+ - **ROLLOUT**
  - **SLEEP TALK**
  - **SLUDGE BOMB**
- - **SWIFT**
- - **DREAM EATER**
- - **REST**
- - **THIEF**
+ - **SNORE**
  - **STEEL WING**
- - **NIGHTMARE**
+ - **SWAGGER**
+ - **SWIFT**
 ### Set 3
 *Available at 6+ badges*
- - **DYNAMICPUNCH**
- - **TOXIC**
- - **ICY WIND**
- - **GIGA DRAIN**
- - **IRON TAIL**
- - **DRAGONBREATH**
- - **SHADOW BALL**
- - **MUD SLAP**
  - **ATTRACT**
+ - **DRAGONBREATH**
+ - **DYNAMICPUNCH**
  - **FURY CUTTER**
+ - **GIGA DRAIN**
+ - **ICY WIND**
+ - **IRON TAIL**
+ - **MUD SLAP**
+ - **SHADOW BALL**
+ - **TOXIC**
 ### Set 4
 *Available at 8+ badges*
- - **ZAP CANNON**
  - **BLIZZARD**
+ - **EARTHQUAKE**
+ - **FIRE BLAST**
  - **HYPER BEAM**
+ - **PSYCHIC**
  - **SOLARBEAM**
  - **THUNDER**
- - **EARTHQUAKE**
- - **PSYCHIC**
- - **FIRE BLAST**
+ - **ZAP CANNON**
 
 HMs
 ---

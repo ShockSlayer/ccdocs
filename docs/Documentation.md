@@ -104,26 +104,27 @@ Last but not least, before asking a question in the Discord, please **use the se
 ==========================
  - Kurt's specialty balls now work properly, and have been reworked to be more useful. See: [the 2.4.0 changelog](changelogs/2_4_0_Changelog.md#2_4_0_Ball_Reworks)
  - This means Fast Ball properly boosts catch rate on the following species:
-	 * Grimer
-	 * Tangela
-	 * Mr. Mime
-	 * Eevee
-	 * Porygon
-	 * Dratini
+	 * Cubone
+	 * Delibird
 	 * Dragonair
+	 * Dratini
+	 * Eevee
+	 * Entei
+	 * Grimer
+	 * Heracross
+	 * Magnemite
+	 * Mew
+	 * Mr. Mime
+	 * Phanpy
+	 * Porygon
+	 * Quagsire
+	 * Raikou
+	 * Snubbull
+	 * Tangela
+	 * Teddiursa
 	 * Togetic
 	 * Umbreon
 	 * Unown
-	 * Snubbull
-	 * Heracross
-	 * Cubone
-	 * Quagsire
-	 * Delibird
-	 * Phanpy
-	 * Teddiursa
-	 * Raikou
-	 * Entei
-	 * Mew
  - Transform Ditto assumption glitch has been fixed
  - PAR/BRN/PSN now properly affect catch rate
  - Magikarp size related bugs are corrected
